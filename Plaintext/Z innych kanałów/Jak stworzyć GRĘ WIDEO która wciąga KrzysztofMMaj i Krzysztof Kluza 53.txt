@@ -1,0 +1,657 @@
+Jak stworzyć GRĘ WIDEO, która wciąga? @KrzysztofMMaj  i Krzysztof Kluza | 53
+🔗 https://www.youtube.com/watch?v=4OuMFCRt1ZM
+KK (Krzysztof Kluza)
+KMM (Krzysztof M. Maj)
+
+0:  KMM - Czy trzeba wyjść z domu o zgrozo i wyjąć telefon i szukać jakichś rzeczy w naszej rzeczywistości?
+5:  KMM - To jest koszma, mogę sobie wyjąć Google Maps i szukać najbliższej żabki i będzie to dla mnie to samo.
+10:  KMM - To w grze wideo jesteśmy w stanie przeczytać książkę, obejrzeć film, obejrzeć serial i zagrać w inną grę wideo.
+16:  KMM - Czyli to jest najbardziej pojemne medium.
+18:  KMM - Jeżeli widzisz w grze wieżę na horyzoncie, to ty zaczynasz robić dokładnie to samo, jak w literaturze czytasz o tym, że bohaterowie zmierzają do zamku.
+27:  KMM - Myślisz to samo.
+28:  KMM - To znaczy, zaczynasz sobie wyobrażać, co będzie w tej wieży.
+30:  KMM - HBO zatrudniło ksenolingwistę, czyli projektanta języków sztucznych, Davida Petersona do tego, żeby zaprojektował język do traki, czyli ten język, którym się to nomadyczne plemię posługiwało, do którego trafiła Daenerys Targaryen.
+44:  KMM - No i ktoś mógłby powiedzieć, że przecież on mógłby mówić garlżawaliźnijim.
+47:  KMM - I to nie ma żadnego znaczenia.
+49:  KMM - No, spoiler alert, ma znaczenie.
+50:  KMM - Światotwórstwo, jeśli czegoś wymaga,
+53:  KMM - To moim zdaniem w mniejszym stopniu talentu, mistrzostwa, wirtuozerii, jeśli chodzi o kunsztowne operowanie słowem, ale na pewno wymaga braku lenistwa.
+63:  KMM - Znaczy nie można być leniwym.
+71:  KK - Cześć, dzień dobry, witamy w Bunkrze Nauki.
+73:  KK - Ja nazywam się Krzysztof Kluza, a dzisiaj naszym gościem jest Krzysztof Maj.
+79:  KK - Krzysztofa Maja bardzo dobrze znacie, bo jest też prowadzącym Bunkier Nauki.
+85:  KK - Oprócz tego jest adiunktem w Katedrze Technologii Informacyjnych i Mediów.
+92:  KK - No i oczywiście youtuberem, którego pewnie fani, fanki również tutaj oglądają.
+100:  KMM - Guilty as charged.
+102:  KMM - Witam serdecznie.
+103:  KMM - Ciekawie jest być na tym fotelu tym razem.
+105:  KK - Tak, no zwróćcie uwagę, że Krzysztof jest na innym fotelu, więc to nie ja będę odpowiadał na pytania.
+111:  KK - I w sumie jesteś już trzecim prowadzącym, który jest na tym fotelu, którego przepytuję, więc ja tak naprawdę trochę gromadzę tych prowadzących jak takie Pokemony w Pokemon Go.
+124:  KK - A mówię o Pokemon Go, bo to jest gra i dzisiaj będziemy mówić o światotwórstwie w grach.
+131:  KK - Z tym, że właśnie, czy taka gra jak Pokemon Go cię interesuje, czy niekoniecznie?
+136:  KMM - Nie wiem, za dużo naszej rzeczywistości.
+138:  KMM - Znaczy trzeba wyjść z domu o zgrozo i wyjąć telefon i szukać jakichś rzeczy w naszej rzeczywistości.
+144:  KMM - To jest koszma, mogę sobie wyjąć Google Maps i szukać najbliższej żabki i będzie to dla mnie to samo.
+149:  KMM - W moim przekonaniu, jeżeli świat otworzymy, to ja muszę jednak udawać się do innej rzeczywistości.
+153:  KK - Czyli jesteś człowiekiem...
+154:  KK - nieistniejących rzeczywistości.
+155:  KMM - Tak, absolutnie.
+156:  KMM - Tolkien pięknie powiedział, to było w jego wykładach, a później zostało zapisane w eseju Drzewo i Liść i Mitopeia, że my musimy usiec do innej rzeczywistości, niekoniecznie uciekać od naszej rzeczywistości, ale to jedno z drugim jest powiązane, więc ja jestem po stronie takiej pozytywnej formy eskapizmu, żeby uciekać do innego świata i w tym innym świecie możemy znaleźć jakieś problemy, które nas będą interesowały i to też ma tę zaletę,
+181:  KMM - że jak się odizolujemy od naszej rzeczywistości, to się wtedy izolujemy od kontekstów politycznych, rasowych, religijnych, wszelakich kontrowersji.
+189:  KMM - Możemy rozpatrzyć jakiś problem, który u nas jest bardzo polaryzujący, typu migracja i wziąć sobie to w świecie Westeros i Essos u George'a A. Martina w Pieśni Lodu i Ognie i nagle problem migracji, który polaryzuje i ludzie się nie chcą dogadać, rozważasz na podstawie muru, który jest wybudowany w Westeros na północy,
+208:  KMM - Mur miał oddzielać krainy Westeros od innych dosłownie, ale ci inni to są potwory.
+213:  KMM - Tylko, że wiadomo, w pomroce dziejów zaniknęły informacje na ten temat, więc ludzie, którzy się zjawili po niewłaściwej stronie muru, automatycznie stają się obiektem ostrzału ze strony nocnej straży, która strzela do wszystkiego, co jest poza murem i już nie patrzy, czy to jest człowiek, czy to jest inny.
+230:  KMM - I nagle się robi ciekawie, bo zaczynamy patrzeć na perspektywę migracji z zupełnie innej takiej,
+238:  KMM - strony, co więcej, wszyscy jesteśmy porówno wyobcowani, niezależnie od tego, czy czyta Pieśń Lodu i Ognia Białorusin, Polak, Japończyk, Amerykanin, Francuz, tak samo będzie odczuwał ten problem, a w momencie, w którym byśmy chcieli rozważyć problem migracji, nie wiem, w reportażu napisanym przez Polaka na temat tego, co się dzieje na granicy Polski i Białorusi, to nagle się robi wszystko mocno jednostronne, a potem jeszcze weźmiemy drugiego reportażystę, który rozważy sprawę od strony białoruskiej i sobie robi jeszcze ciekawiej, tak?
+268:  KMM - I nagle się okazuje, że nie możemy wyjść z tej polaryzacji, więc wbrew pozorom w tym szaleństwie jest metoda.
+273:  KK - Tylko czy to nie jest trochę taka ucieczka przed światem?
+276:  KMM - Właśnie wydaje mi się, że nie.
+277:  KMM - To znaczy może uciekasz przed tym settingiem, który cię nudzi.
+280:  KMM - Setting, czyli to miejsce dosłownie, gdzie osadzamy naszą historię.
+284:  KMM - I mnie nudzi rzeczywistość jak dzieciak z lat 90.
+288:  KMM - Zawsze noszę w pamięci ten obraz Krakowa, który był brudny, zaszczany, paskudny, szary przed wejściem Polski do Unii Europejskiej.
+295:  KMM - I ja nie widziałem nic pięknego w mieście.
+298:  KMM - Teraz zupełnie się to zmienia, ale trochę został mi ten nawyk patrzenia gdzieś w przyszłość, jak będzie Polska wyglądała za 150 lat.
+307:  KMM - Więc jednak nawet jeżeli myślę o naszej rzeczywistości, to zawsze trochę w innej perspektywie.
+312:  KMM - I co ciekawe, w bardzo podobny sposób można patrzeć na świat historyczny.
+316:  KMM - Świat historyczny też nie istnieje, a jest jednak kupa ludzi, która się interesuje historią, mimo że dosłownie nie mamy dostępu do tego świata.
+323:  KMM - Więc wbrew pozorom ta nasza rzeczywistość, ten nasz świat, to jest bardzo mnikły wycinek teraźniejszości, na który patrzymy.
+330:  KK - Rzeczywiście.
+333:  KK - Z tym światem historycznym mamy do czynienia w takim kontekście, że możemy jakieś filmy historyczne obejrzeć.
+338:  KK - Oczywiście niektóre te filmy, na przykład seriale jak The Crown, to tam przedstawiają tę rzeczywistość nie do końca idealną, czy nie do końca tak jak ona miała miejsce, ale jednak jesteśmy w stanie dotrzeć do tej rzeczywistości.
+354:  KK - W przypadku gier, jak to wygląda?
+357:  KMM - Znaczy, jest wiele oczywiście różnych teorii.
+360:  KMM - Jedna, którą ja najbardziej lubię, Henry'ego Jenkinsa z książki Kultura Konwergencji, głosi, że światy muszą mieć okna dostępowe.
+368:  KMM - Więc jeżeli ktoś chociażby chce sobie poznać świat, teraz weźmiemy przykład bardziej powszechny, Władcy Pierścieni, a ściśle mówiąc Śródziemia, a ściśle mówiąc Ardę, bo Śródziem jest w Ardzie, no to wtedy ma wiele różnych opcji.
+380:  KMM - Może sobie zagrać w grę Middle-Earth Shadow of Moto.
+382:  KMM - I wtedy pozna trochę niekanoniczną historię, czyli taką niezgodną z wersją Tolkienowską, ale jednak bardzo interesującą.
+388:  KMM - Może sobie zagrać w Battle of Middle-Earth 2, która jest w zasadzie bardzo podobna do obrazów Petera Jacksona, więc może też obejrzeć filmy Petera Jacksona.
+396:  KMM - I to raczej Władcę Pierścieni niż Hobbit.
+398:  KMM - Może również czytać Sima Lirion, który jest swoim...
+401:  KMM - swego rodzaju, powiedzmy, mitologią, tak jak Parandowskiego czy Gravesa, tylko że świata Tolkiena.
+407:  KMM - No i może wreszcie przeczytać samego Władcę Pierścieni.
+409:  KMM - Więc tych opcji jest strasznie dużo.
+410:  KMM - Okien dostępowych do świata jest dużo i te światy można poznać bardzo długo.
+414:  KMM - Inny przykład, Warhammer, 40 tysięcy, bardzo znany świat, mimo że nie było
+419:  KMM - Chyba nigdy jeszcze serialu, który teraz jest w produkcji podobno amazonowy, który by przybliżył Uwrzesz Świat szerszej publice, no ale jest gra bitewna, figurkowa, która jest kultowa, dużo ludzi ją zna, dużo ludzi maluje modele.
+433:  KMM - No dobrze, ale można zapytać, no przecież gdzie ten świat powstaje, skoro ktoś maluje figurki?
+438:  KMM - No właśnie, on powstaje w opowieściach, które ludzie snują i te opowieści można poznać na YouTubie, odpalając kanał Lutin9, swoją drogą polecam, Luetin09 się pisze.
+448:  KMM - i posłuchać dwu, trzy, czterogodzinnych wideoesejów na temat historii fikcyjnego świata, ale może równie dobrze przeczytać kilkadziesiąt tomów Heresii Horusa, czyli serii książkowej osadzonej w tym sieci.
+459:  KMM - Więc też są różne okna dostępowe.
+462:  KMM - I trochę jest to podobne do tego, jak my poznajemy nasz świat znowu.
+465:  KMM - Ten, w którym my żyjemy.
+467:  KMM - No i ja nie muszę jechać do Australii, żeby wiedzieć, że w Australii istnieje.
+470:  KMM - Mogę wejść sobie na Google Maps, poogląda,
+472:  KMM - Mogę sobie na przykład, nie wiem, obejrzeć serię filmów, mogę posłuchać relacji innych ludzi, mogę zobaczyć sobie obrazy i dokładnie w taki sam sposób konstruuje się światy wyobrażone.
+482:  KMM - To znaczy dostarczamy dokumentów autentyfikujących, czy jakiś świadectw, kronik, encyklopedii, map i jak spojrzymy na to, jak rozwijają się fikcyjne światy, to w zasadzie za każdym razem są to...
+495:  KMM - te same komponenty, więc trochę patrząc na to z perspektywy technicznej, zgadzam się z tym, co powiedział Mark Wolf kiedyś w książce Building Imaginary World, że świat to są dane, po prostu.
+506:  KMM - To nawet nie jest fabuła i opowieść, to jest zbiór danych i te dane możemy na różne sposoby reprezentować, to właśnie mogą być mapy, słowniki, kroniki i tak dalej, ale charakterystyczne jest to, że ten sposób przedstawiania rzeczywistości jest bardzo ścisły, spójny i logiczny.
+520:  KMM - W momencie, w którym się pojawiają tam jakieś nieścisłości czy nielogiczności,
+524:  KMM - To nie jest to moment na powiedzenie, o, to jest licencja poetika, swoboda artystyczna.
+528:  KMM - Nie, nie, swoboda artystyczna to może być gdzie indziej, w sposobie prowadzenia historii, opisu bohaterów i tak dalej, ale też na przykład musimy pilnować, żeby ten bohater był rozpoznawalny.
+536:  KMM - No i to jest kazus Galadrieli z Rings of Power.
+539:  KMM - Jak ja patrzę na Galadrielę, ja nie widzę Cate Blanchett i to jest dla mnie problem, ponieważ kreacja Cate Blanchett Galadrieli zapadła nam w pamięć i to nie jest to samo, co kreacja Bonda, do której jesteśmy przyzwyczajeni, że co ileś lat zmienia się aktor,
+552:  KMM - I Bond ma, to jest w zasadzie pewna idea, to jest zbiór cech, które bardzo łatwo jest przypisać dowolnej osobie.
+558:  KMM - Natomiast w przypadku Galadrieli wprowadzono modyfikacje, które godziły w zbiór cech właśnie dla niej krytycznych.
+565:  KMM - To znaczy to, że to jest po pierwsze Magini, władza mocą, to jest jedna kwestia.
+571:  KMM - Druga kwestia długowieczna, w związku z powyższym też nie będzie pełniać różnego rodzaju głupich błędów, które Galadriela serialowa popełnia.
+578:  KMM - I to już nie chodzi o to, że ona inaczej wygląda, tylko to chodzi o to, że zmodyfikowano jej kluczowe cechy, które właśnie godzą w ten zbiór danych, które mamy na temat danego świata.
+587:  KMM - Tylko strasznie mało ludzi w ten sposób myśli i to też jest kwestia tego, że mało też firm, korporacji zatrudnia osoby, które się specjalizują właśnie w zarządzaniu tymi danymi.
+598:  KMM - A te firmy, które to robią, odnoszą sukcesy.
+601:  KK - A jak to jest, czy gry według ciebie są dla każdego, czy to jest jakiś bardzo określony krąg odbiorców gier?
+608:  KMM - Wiesz co, powiem ci, że to też jest trudne pytanie o tyle, że to już jest tak szerokie medium i tak zróżnicowane, że już to słowo przestaje mnie na przykład wystarczać, bo zauważ, że jako grę jesteśmy w stanie potraktować cyfrowe szachy, ale równocześnie możemy powiedzieć, że grą jest Fortnite, grą jest Minecraft, grą jest...
+627:  KMM - Mydle w Shadow of Mordor, wspomniane przeze mnie wcześniej, duże tytuły jak Wiedźmin, Cyberpunk, które tworzą już gigantyczne wirtualne świata, ale grą też będzie Genshin Impact mobilny.
+636:  KMM - I to są zupełnie różne już tytuły w obrębie jednego medium i
+642:  KMM - No i to jest trochę tak jak z literaturą, czy z filmami, czy z serialem.
+645:  KMM - Trzeba już sobie wybrać swoją niszę i stwierdzić, czy to jest dla danej osoby.
+648:  KMM - Jeżeli ktoś na przykład boi się, że gry mają wysoki próg wejścia, bo tu jest jednak interakcja i tak dalej, zawsze powtarzam, że można zacząć od gatunku, jakim jest interactive movie, czyli film interaktywny.
+659:  KMM - koncentrujący się na światotworzeniu, na historii, na przykład Detroit Become Human opowiada o świecie niedalekiej przyszłości, no powiedzmy, w której mamy androidy walczące o swoje prawa.
+670:  KMM - Więc to jest historia do poznania i atutem właśnie jest to, w jaki sposób jest przedstawiona i to, że możemy się zaangażować w jakichś krytycznych momentach, kiedy podejmujemy jakąś decyzję moralną, tak?
+680:  KMM - Czy stajemy po stronie androidów, które zaczynają strzelać do policjantów, więc w zasadzie
+685:  KMM - Czy jesteśmy zdrajcami gatunku, jeśli to robimy jako gracz?
+687:  KMM - A może właśnie dostrzegamy w nich więcej człowieczeństwa niż w tych policjantach, którzy zaczynają pałować roboty mówiąc, że one w ogóle są nikim i nic nie czują, mimo że myśmy widzieli w poprzedniej scenie, że android uratował dziecko, więc coś jest nie tak.
+702:  KMM - I w takiej grze my nie potrzebujemy sprawdzać swoich umiejętności, jak w wysoko wymagających grach typu Dark Souls chociażby, do których absolutnie nie należałoby podchodzić.
+711:  KMM - No i to jest troszeczkę taka dyskusja, jaką możemy mieć w odniesieniu do szkolnego nauczania języka polskiego, gdzie zamiast żeby zacząć od atrakcyjnej, dobrej literatury o niskim progu wejścia, mamy pan Tadeusz, nie?
+723:  KMM - No to to jest tak, jak ja bym powiedział do kogoś, kto nie grał nigdy w gry wideo, nie wie w jaki sposób sterować,
+730:  KMM - Zacznij sobie od gier FromSoftu, gdzie wytrawni gracze 60, 80, 150 razy umierają na pierwszym przeciwniku, nie są w stanie przejść dalej.
+739:  KMM - To jest właśnie konieczność też uwzględnienia tych potrzeb użytkownika, tu się pojawia, no i równocześnie zdawania sobie sprawę z tego, jak bardzo, bardzo dużo jest tych gatunków.
+748:  KMM - Więc zawsze jakbym rozmawiał z kimś, kto właśnie chce się zainteresować grami, to zwykle zaczynałbym od tej strony, która jest najbardziej przystępna, czyli właśnie opowieści, fabuły, historii.
+758:  KMM - i tego, w jaki sposób jest przedstawiona, a dopiero potem zastanawiają się nad tym, czy rzeczywiście to jest trudne, czy nie.
+762:  KMM - Myślę, że dzisiaj to jest chyba też coraz wyraźniejsze, że bardzo dużo ludzi gra i w tym momencie taką grupą graczy najbardziej grającą poza mną jest młodzież.
+773:  KMM - Tylko 24-32 to jest najbardziej grająca grupa studenci i młodzi naukowcy, wykładowcy, haha.
+781:  KMM - Ale tak, rzeczywiście starzeje się nam największa grupa graczy,
+786:  KMM - Co też sprawia, że gry siłą rzeczy mogą być w różnych segmentach o wiele bardziej wymagające, bo zakładają to, co Eric Zimmerman nazywa grową erudycją, gaming literacy, kapitał kulturowy, który pozwala nam grać.
+798:  KMM - Trochę tak, jak pisarz awangardowy będzie zakładał, ok, jeżeli ktoś zaczyna czytać moją książkę, no to pewnie wcześniej poznał wszystkie inne typy narracji, znudziły mu się już one i teraz chce jakiegoś wyzwania większego.
+811:  KK - Biorąc pod uwagę te różnice, że ta grupa jest tak dookreślona, największa grupa graczy, to czy to jest związek z jakimiś pokoleniami, jak myślisz?
+821:  KMM - Tak, tak, znaczy pokolenie milenialsów dorosło, ma też pieniądze, więcej zdecydowanie niż powiedzmy miewało w latach 90., kiedy to się zaczynało i pamiętam, że wtedy
+834:  KMM - Ja chociażby łaziłem po kolegach i graliśmy wspólnie w Heroes of Might and Magic 3, tam był tryb, który się nazywał gorące pośladki, nie żartuję, hot seats.
+842:  KMM - I siedziało się rzeczywiście jak na gorącym krześle i się wypychało kolegę wtedy, kiedy była moja tura.
+849:  KMM - Więc wtedy granie było zupełnie inne i nikt sobie nie wyobrażał, że przeciętna cena gry, tak jak dzisiaj, to będzie 300-400 złotych.
+856:  KMM - Wiesz, i teraz moglibyśmy na to spojrzeć z bardzo dużą powagą, z perspektywy tego, na ile my, jako państwo, czy instytucje edukacyjne, zapewniamy dostęp do najdroższego medium, ale też najbardziej atrakcyjnego i poznawczo, i najbardziej rozwijającego ludziom, młodym ludziom, nie?
+872:  KMM - Dlaczego mamy biblioteki?
+874:  KMM - Wszędzie, natomiast my nie mamy mediatek.
+875:  KMM - Mimo, że książka jest tańsza, wielokrotnie tańsza,
+879:  KMM - od subskrypcji Netflixa, czy od, nie wiem, jakiegokolwiek biletu kinowego, czy właśnie od ceny gry.
+885:  KMM - Gry te są najdroższym medium i generują największe zysków na świecie.
+890:  KMM - Teraz akurat mamy kryzys w branży gamedevowej, niestety, i to dość spore, i stagnację, więc zobaczymy, jak to będzie wyglądało.
+896:  KMM - Natomiast z danych za 2023 wynika, że gry wideo jako segment, powiedzmy tak, najogólniej rozrywkowy, wygenerowały najwięcej dochodów.
+904:  KMM - całej działalności artystycznej, to też jest informacja dla humanistów, tak?
+907:  KMM - Zamiast żeby humanista płakał, że nie ma pracy, że nie zarabia i supłał tę stóweńkę, tak jak Adaś Miałczyński w Dniu Świra, no to może warto się zainteresować tym, czym się interesuje duża część populacji, prawda?
+919:  KMM - I wtedy wnieść tam to, co my możemy na przykład jako kulturoznawcy, jako literaturoznawcy wnieść do nowego medium,
+927:  KMM - które pozwala na to, na co nie pozwala żadne inne medium, bo jak zawsze powtarzam, to w grze wideo jesteśmy w stanie przeczytać książkę, obejrzeć film, obejrzeć serial i zagrać w inną grę wideo.
+937:  KMM - Czyli to jest najbardziej pojemne medium.
+940:  KMM - Od nas tylko zależy, jako projektantów gier chociażby, czy zaprojektujemy to medium faktycznie tak, żeby to uwzględniać.
+946:  KMM - Ja kiedyś zrobiłem też taki eksperyment złośliwy na konferencji polonistycznej,
+950:  KMM - że przedstawiłem grę Bioshock Infinite jako powieść wybitnego, awangardowego, amerykańskiego pisarza Ken'a Levina, który incydentalnie był głównym projektantem gry.
+959:  KMM - I przedstawiłem ją, nie mówiąc słowa na temat rozgrywki i tak dalej.
+962:  KMM - Ludzie się na to złapali.
+963:  KMM - Pytali mnie, gdzie można przeczytać tę książkę.
+965:  KMM - Ja powiedziałem, powiem, aha!
+966:  KMM - To była gra.
+967:  KMM - Więc to wszystko zależy od nastawienia, od tego, w jaki sposób to przedstawimy.
+971:  KMM - Jedną nie ulega wątpliwości.
+972:  KMM - To znaczy, medium się bardzo rozwinęło i ja uważam w ogóle, że dzisiaj powinniśmy mówić
+977:  KMM - o grach i o wirtualnych światach jako o czymś, co się zaczyna bardzo między sobą różnić, bo ten aspekt ludyczny, rozrywkowy w wielu grach już nawet nie jest zachowany.
+987:  KMM - Zresztą ludzie bardzo często się na to łapią i pytają na przykład kogoś, kto chociażby tak jak ja lubi gry związane z wyzwaniem jakimś typu Dax, Sekiro, Elden Ring, teraz gram w Hollow Knighta chociażby i pytają, ale dlaczego w to grasz, skoro się nie bawisz?
+1000:  KMM - A tymczasem to nie na tym polega, tak?
+1003:  KMM - Wyzwanie bardzo często polega na przezwyciężeniu samego siebie, a nie na tym, że oddaje się płochej rozrywce, jak w przypadku skakanki.
+1010:  KMM - A tymczasem nawet polszczyzna trywializuje gry wideo, bo jak mamy w języku angielskim first person shooter, to co mamy w języku polskim?
+1017:  KMM - Strzelanka, jak skakanka, nie?
+1019:  KMM - Aha.
+1020:  KMM - I to jest znaczące.
+1021:  KMM - Ja jednak mam to ukąszenie polonistyczne, więc zawsze będę patrzył też na to, jak to w języku jest przedstawiane.
+1027:  KMM - I myślę, że to w jakiś sposób używamy języka.
+1029:  KMM - Też wiele mówi o tym, jakie było w Polsce podejście do gier.
+1032:  KMM - To się oczywiście zmienia, ale właśnie tak jak powiedziałeś, to jest kwestia czysto pokoleniowa.
+1035:  KMM - W tym momencie też jest, myślę, bardzo ciekawe to, żeby zastanowić się nad tym, na ile generacja Z i alfa będzie tak samo grała jak milenialsi właśnie w wieku 30-40 lat.
+1045:  KMM - Zobaczymy, jak to się będzie rozwijało.
+1048:  KMM - Ja na razie nie zaobserwowałem żadnych konkretnych też danych, które mógłbym przekazać tutaj.
+1053:  KMM - Mogę tylko powiedzieć, że myli się ten, kto myśli, że jeżeli rozmawia się z 20-latkiem, czy z 18-latkiem, czy z 21-latkiem i mówi się, no tam Deus Ex, Age of Empires i rzuca się te wszystkie tytuły, które były ważne dla mojej generacji, to że ludzie to znają.
+1068:  KMM - Absolutnie nie znają.
+1069:  KMM - Więc pojawia się dokładnie ten sam problem w przypadku gier, co się pojawił dawno temu w przypadku książek.
+1073:  KMM - Prędzej czy później będziemy znowu wracać do tej naszej nieszczęstej dyskusji na temat kanonów, które nie mają absolutnie żadnego sensu, bo po prostu każda generacja, każde pokolenie ma swój zestaw lektur, filmów, seriali, gier, które są dla niego ważne i formowanie kanonu cały czas z tej perspektywy przeszłej jest błędne.
+1091:  KMM - Nieprzypadkowo to się dzieje tylko u nas i w innych krajach posowieckich, że kanon jest narzucany przez państwo
+1096:  KMM - W innych krajach się to robi dynamicznie i co roku.
+1099:  KK - Natomiast gry nie wchodzą, przynajmniej na razie, do tego kanonu.
+1102:  KMM - No czym mamy?
+1103:  KMM - This War of Mine jest, tak, jako lektura nadobowiązkowa, ale od razu spieszę z dopowiedzią, że This War of Mine jest grą, która porusza temat wojny, powstania, brud, smród, ubóstw.
+1116:  KMM - o cierpieniu, więc pasuje, nie?
+1117:  KMM - Idealnie naszego kanonu martyrologicznych lektur i ładowania po naszej dumie narodowej i mówienia o tym, że no tak, że powstajesz, zawsze źle było, no Boże, no.
+1129:  KMM - A swoją drogą, tak poważnie mówiąc, Wiesław Mań naprawdę nie jest grą, którą należy polecać na początek, bo to jest gra, która w bardzo ostry sposób porusza problem samobójstwa, śmierci cywili, wojny właśnie pokazywanej od strony bardzo okrutnej też, więc jakby ktokolwiek to pomyślał, że to jest świetna lektura dla 17-latków, pokazał tylko jedno, to znaczy, że w to nie grał.
+1153:  KK - powiedz mi, robisz kursy dotyczące światotwórstwa, nawet jeden jest otwarty, prawda?
+1160:  KK - Tak, tak, jest na platformie OpenAGH.
+1162:  KK - Każdy de facto może w ten kurs wejść.
+1166:  KK - Czy to jest tak, że taki kurs, czy światy tworzyć może każdy?
+1170:  KK - Czy to jednak jest pewna sztuka i trzeba mieć talent, trzeba mieć jakieś dodatkowe umiejętności?
+1178:  KK - Czy to jest jednak takie wytwórstwo, którego można się nauczyć?
+1183:  KMM - Jeszcze dwa lata temu bym Ci powiedział, że pewnie trzeba mieć do tego jakieś kwalifikacje literackie, artystyczne i faktycznie jak zaczynałem na naszej uczelni kursy ze światotworzenia, to studenci, zwłaszcza z wydziałów technicznych, bardzo słusznie i rezolutnie mówili, no ale...
+1200:  KMM - byśmy nie przyszli na AGH po to, żeby rysować.
+1202:  KMM - Majmy rację, tak?
+1204:  KMM - Więc w momencie, w którym się pojawiły narzędzia AI-owe, to nagle się okazało, że możemy zająć się faktycznie tym światotworzeniem właśnie z takiej technicznej, ciekawej perspektywy zarządzania dużymi grupami, zespołami, klasterami danych.
+1218:  KMM - No bo tak, załóżmy, że
+1220:  KMM - sztuczna inteligencja, np.
+1222:  KMM - GPT-4 w połączeniu z Leonardo, albo Dalim, albo Mid Journey, generuje nam bardzo ładne karty postaci.
+1229:  KMM - Jest jakaś postać i obok jest opis tej postaci.
+1232:  KMM - To nawiasem mówiąc, da się zrobić tak, żeby jedno z drugim było sparowane.
+1235:  KMM - Zresztą studenci właśnie w zeszłym roku na warsztatach światotwórczych, które robiłem w uczelnianym bazie przymiotów obieralnych, mieli taką strategię, że cały czas iterowali te opisy, żeby była rzeczywiście dobra grafika i później na podstawie tej grafiki mówili, że chcą w podobnej stylistyce innych grafik, więc dzięki temu zachowywali spójność.
+1255:  KMM - No dobrze, ale jak już masz wygenerowanych, powiedzmy,
+1257:  KMM - N opisów postaci, n kart postaci, n grafik, n lokacji, n opisów lokacji, n przedmiotów, n opisów przedmiotów, no to teraz patrzysz na ten zbiór danych i tu się zaczyna zabawa, no bo musisz zacząć tym zarządzać.
+1271:  KMM - Czy w tej lokacji będą te postaci?
+1274:  KMM - a czy one będą do niej pasować, a jeżeli będą te postaci, to czy one znajdą tam jakiś przedmiot, czy ten przedmiot jest istotny, gdzie to będzie się działo na mapie, a okej, jeżeli pojawi się ta mapa, to za tą mapą też coś jest poza jej granicami.
+1285:  KMM - Każda mapa ma swoje granice i możemy w nieskończoność praktycznie te granice przesuwać, tak jak w naszym wszechświecie, no i tak samo jest w fikcyjnym świecie.
+1293:  KMM - To nie jest tak, że projektujesz sobie mapę jednego miasta na przykład, powiedzmy, że to jest dla uproszczenia Kraków, no i teraz co będzie, jeżeli gdzieś w opisie postaci albo w dialogu pojawi się wzmianka
+1302:  KMM - Po Warszawę, nie?
+1305:  KMM - Z pozdrowieniami dla wszystkich, którzy też lubią te żarty na linii Kraków-Warszawa.
+1311:  KMM - No i co?
+1312:  KMM - Nagle się okazuje, że musimy mieć gdzieś dane na temat stolicy tego kraju.
+1317:  KMM - Czyli pojawia się problem kolejny.
+1319:  KMM - Jeżeli tworzymy fikcyjny świat, to nie jest tak, że my tworzymy jedno miejsce.
+1323:  KMM - My tworzymy tak naprawdę siatkę, sieć połączeń między różnymi miejscami i to trzeba wtedy przełączyć się na zupełnie inny tryb myślenia.
+1332:  KMM - Tak nie myślą pisarze i tak bardzo rzadko myślą artyści, którzy wykonują na przykład grafiki koncepcyjne, więc można się nauczyć czegoś unikatowego, jeżeli chodzi o zarządzanie dużymi zespołami danych, wyciąganie wniosków i przede wszystkim łączenie ich w jakieś sensowne sieci.
+1348:  KMM - Takie dobre ćwiczenie, które ja zawsze proponuję ludziom, to jest spojrzenie właśnie na mapę
+1352:  KMM - zastanowienie się, jak zachęcić użytkownika do tego, żeby odwiedził wszystkie miejsca.
+1357:  KMM - I teraz tak projektujesz park przecież.
+1360:  KMM - Dobrze.
+1360:  KMM - To znaczy dajesz ludziom standardowe kazu z UX-owy, tak?
+1365:  KMM - Babasz, w jaki sposób ludzie będą chodzili, czy będą zainteresowani tym pagórkiem, czy będą tej strony, później sobie robisz alejki i tak dalej, i tak dalej.
+1372:  KMM - Ale projektowanie tego miejsca jest ważne właśnie z perspektywy tego, żeby zobaczyć, jakie będą przyzwyczajenia użytkowników i czy jesteś w stanie zachęcić użytkownika do tego, żeby udał się w jakieś miejsce.
+1381:  KMM - No i dlatego właśnie na warsztatach bardzo często proszę ludzi o to, żeby zastanowili się, no dobrze, projektujecie to miejsce, ale jak ono ma funkcję?
+1389:  KMM - Czy ono po prostu ma być ładne?
+1391:  KMM - Bo jeśli tak, to bez sensu.
+1392:  KMM - Czy też coś tam ma się znaleźć?
+1394:  KMM - Jakie to ma znaczenie z perspektywy przyszłego potencjalnego gracza?
+1399:  KMM - Jakie to jest znaczenie też z perspektywy świata?
+1401:  KMM - Jeżeli jest jakieś miasto, to niech ono ma dzielnicę przemysłową, ale tak, że jeżeli będzie miało slumsy, to automatycznie musimy się zastanowić, okej, tutaj jest jakieś rozwarstwienie społeczne.
+1410:  KMM - A jeżeli będzie to futurystyczne miasto, w którym nie ma biedoty,
+1413:  KMM - No to też jest to jakaś interesująca informacja z perspektywy z kolei tego, jak tam funkcjonuje polityka, zarządzanie całą metropolią, finanse, ekonomia.
+1423:  KMM - W tym momencie zaczyna się okazywać, że ta dyskusja na temat projektowania świata jest praktycznie nieskończona.
+1428:  KMM - I teraz inteligentne zarządzanie tymi danymi może doprowadzić do tego, że będziemy używali minimum środków do uzyskania maksimum efektów.
+1435:  KMM - Przykładowo przywoływana przeze mnie bez przerwy firma From Software, która projektuje gry z serii Dark Souls, tam miała fabuły.
+1441:  KMM - Ona nie używa dialogu w ogóle.
+1444:  KMM - Oni projektują świat wyłącznie w taki sposób, że są rozproszone informacje po opisach przedmiotów.
+1449:  KMM - Więc jeżeli ktoś czyta te opisy przedmiotów, to wtedy wie więcej na temat tego świata.
+1454:  KMM - Ale nie podąża za żadną fabułą, która by go za rączkę poprowadziła i wytłumaczyła mu wszystkie rzeczy.
+1459:  KMM - Więc to naprawdę można zeskalować do bardzo takiego detalicznego podejścia, mimo że będziemy dysponowali jako projektanci jakąś szeroką bazą danych,
+1469:  KMM - I zwykle tak zresztą w studiach jest.
+1472:  KMM - Coś takiego się nazywa albo, nie wiem, prozaicznie Game Bible, czyli taka biblia gry danej, albo Game Design Document GDC, albo pojawiają się różnego rodzaju dokumenty konkordancyjne, spójnościowe z bardzo prostego powodu.
+1487:  KMM - W gamedev jest zazwyczaj tak, oczywiście są wyjątki, np.
+1490:  KMM - Hollow Knight był zaprojektowany przez kilka osób dosłownie, czasem jedna osoba.
+1494:  KMM - Polak zaprojektował teraz grę Main or Lost, która jest niesamowicie popularna, ale to są wyjątki.
+1499:  KMM - Zwykle jest tak, że są zespoły.
+1500:  KMM - Jest zespół ludzi, którzy są odpowiedzialni za narrative, czyli za narrację.
+1504:  KMM - Często wydziela się tam zespół odpowiedzialny za design questów, czyli takich najmniejszych jednostek fabularnych.
+1510:  KMM - które są zorganizowane wokół celu fabularnego, typu musisz coś przynieść komuś, bardzo prosty algorytm.
+1516:  KMM - Zwykle możemy to zapisać algorytmicznie jako Trigger Objective Reaction, to jest zresztą formuła, którą opracowywaliśmy z doktorem Piotrem Kubińskim z Uniwersytetu Warszawskiego w ramach grantu NCBiR.
+1527:  KMM - Trigger dlatego, że tak jak na silniku, wchodzimy w jakieś miejsce w grze i musi się coś zadziać,
+1532:  KMM - Objective, dlatego że gracz musi wiedzieć, co ma zrobić i reaction, dlatego że świat reaguje na to, co gracz zrobił lub gracz reaguje na to, co zrobił lub postaci reagują na to, co zrobił gracz.
+1542:  KMM - To jest bardzo prosta formula questu.
+1544:  KMM - Oprócz quest designerów będziemy mieli concept artistów, ludzi, którzy projektują grafiki koncepcyjne i wyobrażają sobie, jak jakieś miejsce wygląda.
+1550:  KMM - Ale tak, tutaj może się ktoś specjalizować w stroju, ktoś inny w lokacji, ktoś inny jeszcze w czymś.
+1554:  KMM - Oprócz tego będziemy mieli programistów.
+1556:  KMM - Oprócz tego będziemy mieli ludzi, którzy będą architektami.
+1559:  KMM - Tych funkcji różnych jest bardzo, bardzo dużo.
+1561:  KMM - I chcesz mi powiedzieć, że każdy może nauczyć się... Właśnie wiesz, każdy może nauczyć się tego, jeżeli oczywiście zacznie się specjalizować na którymś z etapów, natomiast jeśli chodzi o zarządzanie tym wszystkim, wbrew pozorom, to taki kurs chociażby, który ja robię, to ułatwia.
+1577:  KMM - Natomiast nie, jeżeli ktoś chce projektować na przykład strój i wykorzystywać do tego Engine 5, no to wiadomo, musi się wybrać na kurs, który będzie dedykowany osobom chcącym poznać ten konkretny silnik.
+1591:  KMM - Ale tak samo, jeżeli ktoś chce pisać fabułę do gry, no to musi nauczyć się pisać fabuły w ogóle, tak nawiasem mówiąc.
+1596:  KMM - No właśnie, bo to się różni jakoś.
+1598:  KMM - Fabuła gry, a fabuła... No bardzo, bo w przypadku fabuły gry musisz dbać o napięcie narracyjne.
+1604:  KMM - To jest główna rzecz, którą się zajmujesz.
+1605:  KMM - I najlepsze gry, jak Wiedźmin 3 Dziki Gon, zawaliły to.
+1609:  KMM - W bardzo prosty sposób.
+1610:  KMM - To znaczy, fabuła Wiedźmina 3 Dzikiego Gonu jest taka.
+1614:  KMM - Boże drogi, porywają Ciri!
+1615:  KMM - Dziki Gon porwał Ciri!
+1616:  KMM - Wiedźmin musi natychmiast pomóc Ciri!
+1618:  KMM - Oooo!
+1620:  KMM - Tu jest ziółko do zebrania.
+1622:  KMM - O, starowinka zgubiła papelnię.
+1624:  KMM - O, muszę zebrać set wiedźmiński.
+1627:  KMM - I nagle dochodzi do czegoś, co się nazywa fachowo dysonansem ludonarracyjnym, czyli rozdźwiękiem między rozgrywką i jej obiektywami, jej celami, a celem fabularnym.
+1637:  KMM - Cel fabularny jest taki.
+1638:  KMM - Czas ucieka.
+1640:  KMM - Dziewczynę zaraz zginie, nie?
+1642:  KMM - Dlaczego CD Projekt Red to wprowadził?
+1644:  KMM - To jest bardzo proste.
+1645:  KMM - Czas jest najprostszą techniką do budowania napięcia narracyjnego.
+1649:  KMM - I wpakowali się dokładnie w to samo w Cyberpunku 2077, gdzie gra na poziomie rozgrywki mówi nam, eksploruj Night City, zachwycaj się neonowym blaskiem skąpanego w deszczu miasta, ale równocześnie masz chip w głowie, który ci zaraz wybuchnie.
+1666:  KMM - Ciekawy jestem, czy w Wiedźmie Czwartym wreszcie się nauczą, żeby tego nie robić, ale to jest trudne, tak?
+1670:  KMM - Dbanie o napięcie narracyjne w sytuacji, gdy dajemy graczowi swobodę i mówimy mu, możesz robić w świecie co chcesz, no jest ciężkie, bo to napięcie narracyjne umiemy robić w literaturze, w filmach i tak dalej w bardzo taki prosty sposób.
+1684:  KMM - Jeżeli sobie spojrzymy na wszystkie filmy, seriale, książki i tak dalej, zawsze jest tak samo, że bohater tam startuje, troszeczkę się akcja rozwija, potem nagle się okazuje, że napotyka jakieś straszne zło, jest przeszkoda, on się załamuje, nie dam rady, ale napotyka mędrca, mędrzec mu mówi, dasz radę, on pokonuje już Lorda Sidiousa, Vadera i tak dalej.
+1703:  KMM - Ojej, udało się.
+1704:  KMM - I potem wraca do swojej wioski, widzi, że jego rodzice zostali zabici i sobie myśli, o Boże, jaką wędrówkę przebyłem.
+1710:  KMM - To jest cały ten sam schemat od Arystotelesa w górę z zawiązaniem akcji punktem kulminacyjnym i rozwiązaniem akcji, to się nazywa fachowo piramidę Freitaga.
+1721:  KMM - Mamy zawiązanie, tu jest punkt kulminacyjny i spadek akcji, spadek napięcia.
+1725:  KMM - Więc to możemy zrobić w obrębie takiej mikrofabułki, taki questik, typu quest z patelnią, słynny z Wiedźmina Trzeciego.
+1731:  KMM - Wiedźmin Geralt sobie idzie, idzie, nagle słyszy, że Starowinka krzyczy, że tam
+1735:  KMM - O Boże, panie Wiedźminie, poratujcie ją patelnią i zostawmy ją.
+1739:  KMM - Wchodzimy tam i dzieją się rzeczy.
+1740:  KMM - Oczywiście okazuje się, że to wcale nie było takie prozaiczne.
+1743:  KMM - Nam się wydawało, nie spojduje questu z patelnią.
+1746:  KMM - No i później oddajemy rzeczoną patelnię Starowińce i wszyscy się cieszą i rozchodzą.
+1750:  KMM - Więc tam zawsze będzie nawet takim maleńkim, najbardziej bzdurnym questie typu przynieś mi siedem wiązek jaskółczego ziela.
+1758:  KMM - Będzie ten punkt kulminacyjny.
+1759:  KMM - gdzie my będziemy mówili, o zdobyliśmy Jaskół Czeziele i zaatakował nas Gula, a potem sobie wracamy do osoby, która nam zleciła ten rzecz, quest, to zadanie.
+1766:  KMM - Więc zawsze to napięcie będzie, ale to jest trudne.
+1769:  KMM - I dlatego też pisarze są bardzo często zatrudniani do pisania questów, bo oni wiedzą jak to robić, bo robili to wiele razy w opowiadaniach.
+1776:  KMM - Pisarze umieją napisać na, nie wiem, dwie strony opowiadanie, gdzie będzie punkt kulminacyjny.
+1781:  KMM - Bardzo silnie zrobione napięcie.
+1783:  KMM - Dlatego też polecam ludziom, którzy chcą pisać fabuły do gier, żeby pisali short fiction.
+1788:  KMM - Opowiadanie na dwie strony, opowiadanie na jedną stronę.
+1791:  KMM - Im krótsze, tym lepsze, bo w grze i tak w zasadzie to będzie się sprowadzało włącznie do dialogu.
+1795:  KK - W grze wycinamy opisy w questie.
+1797:  KK - No właśnie, tylko te opisy wszystkie, na przykład, nie wiem, w literaturze mamy piękne opisy...
+1803:  KK - przyrody, czy piękne opisy zamku i tak dalej.
+1807:  KK - My sobie możemy to wyobrazić.
+1809:  KK - W grze, mam wrażenie, pozbawiamy się tej wyobraźni i zostawiamy tę wyobraźnię dla fachowców, którzy tworzą potem te rzeczy.
+1820:  KMM - To jest częsty argument, który rozbrajają kognitywiści.
+1823:  KMM - To znaczy, jeżeli widzisz w grze wieżę na horyzoncie, to ty zaczynasz robić dokładnie to samo, jak w literaturze czytasz o tym, że bohaterowie zmierzają do zamku.
+1833:  KMM - Myślisz to samo.
+1834:  KMM - To znaczy zaczynasz sobie wyobrażać, co będzie w tej wieży.
+1836:  KMM - Zaczynasz sobie wyobrażać, co będzie w tym zamku.
+1839:  KMM - Espen Arset, groznawca z odpowiednika naszego AGH w Danii, to znaczy IT University of Copenhagen, który założył tam Centrum Badań Game Studies, jest też redaktorem naczelnym czasopisma Game Studies, które oczywiście nie ma żadnych punktów, ale tym się nikt nie przejmuje, ponieważ wyłącznie w Polsce się przejmujemy punkcikami z artykuły.
+1854:  KMM - a na całym świecie robimy poważną naukę.
+1857:  KMM - No więc też sam Espen Arseth powiedział, że to się nazywa hermeneutyka czasu rzeczywistego, że gramy i równocześnie interpretujemy.
+1863:  KMM - A w literaturze bardzo często jest tak, że ta interpretacja przychodzi trochę później, więc to jest ciekawe.
+1868:  KMM - I kognitywiści mówią generalnie jedną rzecz, że jeżeli mamy jakikolwiek świat, który został wykreowany przez kogokolwiek, pisarza, projektanta gry, malarza,
+1878:  KMM - to on wymaga od nas zawsze naszych jakichś kompetencji, żebyśmy my byli w stanie ten świat uzupełnić i zrozumieć.
+1884:  KMM - Ktoś, kto wie dużo na temat średniowiecznych zamków, jak przeczyta w literaturze, że bohaterowie przybyli na zamek i przez bramę warowną przejechali konno i później się udali na krenelaż, to on będzie wiedział, o co z grubsza chodzi, prawda?
+1899:  KMM - Natomiast ktoś kto zna więcej na temat, jeszcze więcej na temat średniowiecza i architektury i tak dalej i tak dalej, powie sobie, ale zaraz, zaraz, przecież krenelaż to są te blanki przy murze, powinien był powiedzieć, że idą na mur sobie przy bramie, a nie na krenelaż, to jest bez sensu, nikt nie będzie chodził po krenelażu.
+1913:  KMM - Więc wiesz, nagle się okazuje, że ta wiedza, z którą przychodzisz do jakiegokolwiek świata, ona determinuje w dużym stopniu to, co sobie będziesz wyobrażał.
+1920:  KMM - To nie jest tak, że literatura wyłącznie potęguje naszą wyobraźnię, bo my nie wyłączamy wyobraźni, jak gramy w grę lub oglądamy film.
+1928:  KMM - I jest bardzo prosty dowód na to.
+1931:  KMM - Chociażby to, jaki jest odbiór i gier, i filmów.
+1934:  KMM - Ludzie bardzo często mówią, nie, ja sobie nie tak to wyobrażałem, albo tak nie wyglądają zamki, albo tak nie wygląda Night City, tutaj jest pewien problem.
+1942:  KMM - My nie umiemy wyłączyć naszego mózgu.
+1944:  KMM - Ale wiesz, problem jest też taki, że
+1947:  KMM - To są badania kognitywistyczne, które bazują w gruncie rzeczy na eksperymentach społecznych.
+1952:  KMM - Był taki eksperyment w MIT przeprowadzany.
+1954:  KMM - On się nazywał Hyper Cafe.
+1956:  KMM - Polegało to na tym, że w jednej kawiarni byli zgromadzeni ludzie i notowano w ramach obserwacji uczestniczącej, o czym rozmawiają.
+1964:  KMM - No i oczywiście okazało się, że wystrój kawiarni wpływał bardzo często na to, co się ludziom kojarzyło.
+1969:  KMM - No i to była właśnie ta hipoteza główna, która przysłużyła się stworzeniu terminu story word, czyli świat narracji.
+1974:  KMM - I story wordy są fajną alternatywą dla świata przedstawionego, bo świat przedstawiony w literaturze to jest właśnie takie tło fabuły.
+1980:  KMM - A w przypadku gry wideo nie mamy tła fabuły, tylko mamy świat, który się cały czas rozpościera między nami.
+1985:  KMM - Czasem może być proceduralnie generowany i zrandomizowany i będziesz mieć za każdym razem, wchodzisz do jednej lokacji, to będzie ona inaczej wyglądała chociażby.
+1993:  KMM - Więc też to nie jest tak, że nie będzie właśnie tego asumptu do tego, żeby się zastanawiać nad tym, jak ten świat wygląda i wyobrażać go sobie na najróżniejsze sposoby.
+2002:  KMM - Po prostu jest to bardziej już skomplikowana rzeczywistość, która też mam wrażenie w większym stopniu otwiera się na to, o czym zawsze marzyli pisarze, to znaczy, żeby świat był...
+2013:  KMM - nieskończony, żeby to nigdy nie było dzieło, które jest zamknięte, że stawiasz kropkę na ostatniej stronie i to już jest koniec.
+2021:  KMM - A tymczasem do światów gier widomych możemy w nieskończoność wracać, tak samo jak możemy wracać do jakiejś przestrzeni, którą my stworzymy.
+2027:  KMM - Więc to jest taka teoria, która rozpościera się na bardzo dużo dziedzin życia, od architektury wnętrz,
+2032:  KMM - poczynając, a skończywszy właśnie na tym, w jaki sposób projektujemy wirtualną architekturę wnętrz.
+2036:  KMM - Co nawiasem mówiąc, zaczyna być kresz kompetencją przyszłości, tak jak już rozmawiamy o tym, czy rzeczywiście to światotworzenie to jest coś sztucznego, nieprzydatnego.
+2045:  KMM - No, Apple Vision Pro mówi co innego, tak?
+2048:  KMM - Nagle się okazuje, że ludzie pracują inaczej, no niesamowite, we wnętrzu, które dobrze im zaprojektujemy.
+2054:  KMM - A później sobie przypomnimy korporacyjne różne próby tworzenia game roomów na przykład, albo tworzenia przestrzeni pracy, która nie jest tym nudnym open space'em.
+2063:  KMM - Ojej, magicznie ludzie lepiej pracują.
+2065:  KMM - Ja sam sobie stworzyłem przestrzeń do pracy, w której mam mapę na całą ścianę Warhammera Phantasy, prawda?
+2070:  KMM - I wiesz, inaczej się tam pracuje.
+2072:  KMM - Na pewno się tam inaczej pracuje niż w tym wcześniejszym mieszkaniu, w którym miałem, gdzie patrzyłem tylko na ścianę beżowych rolet i było to nudne i nieprzyjemne.
+2082:  KMM - Więc to, w jaki sposób aranżujemy przestrzeń wokół siebie, ma absolutnie kluczowe znaczenie właśnie dla stymulacji tej wyobraźni.
+2088:  KMM - Ale tak, rozumiem absolutnie argument, że przez to, że my się nie stykamy w ogóle w szkolnictwie z analizą dziełu kultury audiowizualnej, mamy takie przekonanie, że tylko literatura zmusza nas do tego wysiłku wyobrażania sobie czegoś.
+2102:  KK - Szkoły idą na lekturę.
+2104:  KK - Andrzej szkoły pójdą wajda, cały czas jest silny, tak.
+2109:  KK - Czy jak masz tę mapę na ścianie, czy ty czujesz taką imersję, wchodzisz do pokoju i jesteś w tym świecie, czy jeszcze chstąpasz po ziemi?
+2122:  KMM - Wiesz co, to jest bardzo ciekawy wątek.
+2124:  KMM - Wydaje mi się, że
+2126:  KMM - Na pewno coś się zmienia, to znaczy lepiej się pracuje we wnętrzu, które ma swoje funkcje.
+2133:  KMM - Ja starałem się myśleć funkcjonalnie o tym, w jaki sposób projektowałem sobie mieszkanie, bo miałem taką możliwość na szczęście po przeprowadzce i powiedziałem sobie, że już nigdy nie zrobię tak, żeby chociażby miejsce spania było równocześnie miejscem pracy i miejscem odpoczynku i miejscem snu i jeszcze milionem innych.
+2151:  KMM - Czyli jak lokacje w grach.
+2152:  KMM - Tak.
+2153:  KMM - I wiesz, że to działa?
+2154:  KMM - To znaczy, ja miałem potworne problemy z bezsennością wcześniej, ponieważ wygodnie myślałem, że mam telewizor 60 cali nad łóżkiem, akurat tak powiesiony przy suficie, że jak sobie leżałem, to oglądałem.
+2167:  KMM - No i magia, nagle się okazało, że nie mogę zasnąć, ponieważ mój mózg był przyzwyczajony, że ta przestrzeń służy do czego innego, ona służy do wypoczynku aktywnego.
+2175:  KMM - Więc miałem problem z zaśnięciem.
+2177:  KMM - I to samo bardzo często może być, jeżeli ktoś na przykład, no nie wiem, siedzi w akademiku i ma, powiedzmy, no wiadomo, ograniczoną przestrzeń, więc będzie tak szesło i będzie łóżko, tak?
+2186:  KMM - I jeżeli będziemy z laptopem leżeć na łóżku, tak jasne, będzie nam wygodniej, ale potem się może okazać, że coś się tam...
+2192:  KMM - Przekliknij i będziemy mieli problemy z zaśnięciem.
+2195:  KMM - Jeżeli będzie jakaś jedna przestrzeń do pracy, jedna przestrzeń do snu, to już to zmienia.
+2199:  KMM - Nawet zmiana wystroju, żeby sobie inaczej ułożyć rzeczy na łóżku, jeżeli się pracuje, a inaczej, jeżeli się śpi, to już zmienia postać rzeczy bardzo.
+2207:  KMM - Ja do tego podchodzę bardzo poważnie właśnie z tego względu, że
+2211:  KMM - Trochę gry nauczyły mnie myślenia w tym, w takim funkcjonalnym sensie, że każde pomieszczenie, każda przestrzeń ma swoją funkcję.
+2218:  KMM - My tylko kompletnie nie rozumiemy, jak organizujemy swoją przestrzeń pracy i nauki.
+2222:  KMM - Kompletnie nie rozumiemy, że jak są ławy jak w kościele na salach wykładowych, to ludzie też będą działać jak wierni w kościele, to znaczy będą kiwać głowami i wstawać w odpowiednich momentach i śpiewać w odpowiednich momentach.
+2232:  KMM - A tymczasem przestrzeń, o czym trąbi o pedagodzy od lat 70. w górę, typu, że mamy okrągły stół i rozmawiamy, jest zupełnie inna.
+2240:  KMM - Pamiętam, jak organizowałem konferencję właśnie i był układ katedralny, ludzie się nie zgłaszali do wypowiedzi, ale jak prelegent razem z ludźmi siedzieli przy jednym stole i dyskutowali, to siłą rzeczy patrzysz na wszystkich, którzy są naokoło.
+2253:  KMM - W związku z powyższym przez to czujesz jakieś zobligowanie, że nie, no ja w sumie może zapytam, tak?
+2258:  KMM - I też nie czujesz tego dystansu, że tutaj jest jakiś prelegent mądry, a tu jest cała nasza... Tu są szare myszek, które tego słuchają.
+2266:  KMM - Myszy.
+2266:  KMM - Więc bez sensu troszeczkę.
+2267:  KMM - I nagle się okazuje, że wprowadzasz pewien podział.
+2270:  KMM - Więc to, w jaki sposób organizujemy przestrzeń, absolutnie ma fundamentalne znaczenie.
+2274:  KMM - Wiesz, też dla takiej imersji.
+2275:  KMM - Wyobraźmy sobie przez jeden moment, zresztą nawet nie musimy, wystarczy zobaczyć, jak podcasty są bardzo często też organizowane, zresztą
+2283:  KMM - Sala wykładowa ma ścianę, taką jak w niektórych studiach telewizyjnych, z ekranów LED-owych czy jakichkolwiek innych i na niej się wyświetla coś.
+2294:  KMM - Robisz na przykład jakieś animacje na wykładzie z astrofizyki.
+2299:  KMM - To wszystko zmienia.
+2300:  KMM - Automatycznie wszystko zmienia.
+2301:  KMM - To w jaki sposób sobie organizujemy przestrzeń.
+2303:  KMM - My niestety jesteśmy przyzwyczajeni do tego, że budujemy kolejny kampus.
+2308:  KMM - Wszędzie będzie wyglądało to wszystko tak samo.
+2310:  KMM - Będzie sterylne wnętrze.
+2311:  KMM - Oczywiście te... Tysiąc latki.
+2313:  KMM - Tak, tak, tak.
+2314:  KMM - I jeszcze te nieszczęsne takie niby drewno fajansowe, te wszystkie krzesła.
+2319:  KMM - No okropnie to wygląda.
+2321:  KMM - I mały rzutniczek na środku wielkiej ściany, na której nie ma nic więcej.
+2328:  KMM - A tymczasem zobaczmy, jak wygląda sala kinowa.
+2330:  KMM - Tak mało trzeba, żeby się zastanowić nad tym, jakie były nasze sposoby osiągania zanurzenia.
+2336:  KMM - W kinie mamy wyciemnienie, wielki ekran, snop światła na ten ekran.
+2341:  KMM - A jak robimy to, jeżeli nie mamy kina?
+2343:  KMM - Naciągamy kołdrę na głowę, bierzemy sobie latarkę i czytamy opowiadanie.
+2349:  KMM - To jest to samo.
+2350:  KK - Pamiętam, miałem też taki przedmiot, zresztą właśnie u was na wydziale obieralny, sztuczna inteligencja w perspektywie nauki popkultury i właśnie po to, żeby można było obejrzeć filmy, zajęcia prowadziłem wieczorami od godziny 20 do 22, prawda?
+2367:  KK - I wtedy nie musiałem się martwić o tego typu rzeczy.
+2370:  KMM - Tak, więc to jest fundamentalnie istotna sprawa.
+2373:  KMM - Ja wiem, że oczywiście jak każdy młotek wszędzie widzę gwoździe, ale prawda jest taka, że światotwórstwo, jeśli spojrzymy na nie troszeczkę szerzej, to jest coś, co naprawdę może zainteresować wiele osób.
+2383:  KMM - Wszystkim powtarzam, nie musisz iść na studia, które mówią, o będziesz projektował gry wideo, żeby projektować gry wideo architekt.
+2390:  KMM - Bardzo się przyda zespołowi level designerów, projektantów poziomów, którzy zastanawiają się na przykład na tym, ok, jak zorganizować tę przestrzeń, żeby ludzie przemieszczyli się na przykład w tym kierunku.
+2401:  KMM - Architekt to wie, bo on tak projektuje taką przestrzeń od lat i wystarczy zrobić to w przestrzeni cyfrowej.
+2407:  KMM - Programista, no nie muszę mówić, że się przyda w przypadku gier wideo, bo to jest ten język, którym się tam posługujemy.
+2413:  KMM - Więc tutaj nie trzeba przekonywać.
+2414:  KMM - Ale na przykład sporo ludzi, którzy idą i jeżdżą do ASP, nawet nie myśli o tym, że może wylądować w przemyśle Gier Video, a może, tylko pod warunkiem, że się zainteresuje metodami speedpaintingu i szybkiego malowania i równocześnie wykorzystaniem sztucznej inteligencji, która mówi, dobrze, wygeneruj mi pięć settingów, żeby były atrakcyjne.
+2432:  KMM - Powiedzmy, że jeden to będzie fantasy, drugi będzie bardziej w stronę science fiction, trzeci w stronę steampunk, a różne estetyki.
+2438:  KMM - I producent powie, okej, idź w tym kierunku.
+2440:  KMM - I w tym momencie koncept artysta zaczyna malować już swoje rzeczy, więc też ma narzędzia oddane do siebie.
+2446:  KMM - Więc bardzo dużo różnych dyscyplin, które się mogą przydać.
+2448:  KMM - Zresztą nawet polonistyka, którą ja nolens wolens reprezentuję, skończywszy takie studia, ma swoich dumnych przedstawicieli w postaci chociażby Marcina Blachy, który jest CD Projekt Red Lead Narrative Designerem, Artura Ganszyńca, który ma na koncie nagrodę polityki za gry wideo.
+2464:  KMM - Teraz czy ja pamiętam tytuły tych gier?
+2467:  KMM - Nie pamiętam, ale łatwo będzie sprawdzić, bo niewiele gier wideo dostało nagrody polityki.
+2472:  KMM - I Werewolf Epocalypse tak mi się wydaje, ale nie chcę strzelać tytułami, bo ja nigdy nie mam pamięci tych tytułów.
+2476:  KMM - W każdym razie każda dyscyplina jest w stanie sobie coś takiego wyłuskać, tylko kluczowych kwestii jest kilka.
+2482:  KMM - Po pierwsze trzeba się interesować grami i znać właśnie różne gatunki gier i wiedzieć jakie są oczekiwania odbiorców, to po drugie.
+2488:  KMM - Na po trzecie, fajnie byłoby też właśnie zainteresować się tym innym sposobem, takim bardziej bazodanowym myślenia o projektowaniu narracji.
+2496:  KK - Natomiast są też takie elementy, mam wrażenie, które można tak hipotetycznie troszkę zaszufladkować na zasadzie na przykład język.
+2505:  KK - Bo ja pamiętam jeszcze ze studiów tam hipoteza Sapira-Wurfa, że język wpływa na rzeczy, kształtuje rzeczywistość.
+2512:  KK - Nawet nie wiem, czy ta hipoteza jeszcze jest obalona, czy prawdziwa, ale generalnie, że język
+2516:  KK - kształtuje nam tę rzeczywistość, więc w literaturze ten język bardzo często był używany właśnie w fantazy, prawda, do tworzenia trochę tej rzeczywistości.
+2526:  KMM - Jak to jest w grach?
+2529:  KMM - Ja uważam, że w zasadzie nie ma różnicy, to znaczy...
+2532:  KMM - conlangi, czyli constructed languages, są wykorzystywane w tej chwili bardzo powszechnie i wbrew pozorom one mają wpływ na odbiór.
+2540:  KMM - Przykład konkretny.
+2541:  KMM - HBO zatrudniło ksenolingwistę, czyli projektanta języków sztucznych, Davida Petersona, do tego, żeby zaprojektował język do traki, czyli ten język, którym się to nomadyczne plemię posługiwało, do którego trafiła Daenerys Targaryen.
+2555:  KMM - No i ktoś mógłby powiedzieć, że przecież on mógłby mówić garlżawaliźnijim,
+2558:  KMM - I to nie ma żadnego znaczenia.
+2560:  KMM - Spoiler alert, ma znaczenie, to znaczy nasz mózg, nawet jeżeli nie zna jakiegoś języka, to wychwytuje podobieństwa fonetyczne, muzyczne, melodyczne, frazowe.
+2570:  KMM - My to słyszymy.
+2571:  KMM - Nasze mózgi są mądrzejsze od nas bardzo często.
+2574:  KMM - Wystarczy sobie wyobrazić sytuację, że jedziemy do Arabii Saudyjskiej na dwa tygodnie i nie wiemy nic na temat arabskiego.
+2580:  KMM - gwarantuje, że w którymś momencie będziemy rozpowiadać niektóre frazy.
+2583:  KMM - I to było po to, żeby ludzie nie wyrwali się właśnie z zanurzenia i z inmersji, a będą słyszeć bzdury, ale jest jeszcze też powód praktyczny.
+2589:  KMM - No jak nauczysz aktora tego, że ma mówić jakieś losowe ciągi dźwięków i to jeszcze, wiesz, aktor musi wtedy zagrać to tak, żeby to było z dobrą intonacją, żeby wyrazić gniew, żeby wyrazić smutek, albo, nie wiem, będzie kilka różnych cięć i kilka różnych podejść na planie i teraz masz to zagrać z gniewem, ale ja już
+2607:  KMM - nie pamiętam, co powiedziałem na przykład.
+2609:  KMM - No i jest problem, nagle musisz stworzyć sztuczny język.
+2611:  KMM - No więc jeżeli chcesz rzeczywiście stworzyć atrakcyjny świat growy, jak najbardziej tego typu conlang można skonstruować, tylko to jest trudne.
+2618:  KMM - Ale czasem można postawić na... Chociaż w Simsach też już... No właśnie, tak, tak, absolutnie.
+2623:  KMM - Można też postawić na proste rozwiązania.
+2625:  KMM - W Hollow Knight'cie też jest taki dziwny język robaczkowy.
+2629:  KMM - Napotykasz postaci, które mówią melemu, na przykład, albo papanada.
+2633:  KMM - Nie wiadomo, co to znaczy, ale jest to zabawne i przyjemne i powtarza się wiele razy, więc też gracze w którymś momencie, jak to gracze, jak to fani, zrekonstruowali ten język, próbowali napisać jego słownik.
+2644:  KMM - Tak samo było, i to jest chyba najlepszy przykład, jaki mam.
+2646:  KMM - Zawsze mówię o nim na zajęcia, więc moi studenci teraz sobie mogą przewinąć o minutę trzydzieści dalej.
+2651:  KMM - Mianowicie w Skyrimie jest język smoczy.
+2653:  KMM - Smoki nie mają przeciwstawnego kciuka, więc nie mogą trzymać pióra.
+2656:  KMM - Mamy problem z zapisem.
+2657:  KMM - Nie, nie mamy problemu z zapisem, bo istnieje pismo klinowe i smok pazurem w skale z łatwością będzie torył.
+2663:  KMM - Ja myślałem sobie, że na tym polega koniec innowacji światotwórców.
+2667:  KMM - Akurat w Bethesdzie, która projektowała Skyrim, a jedna z ostatnich dobrych gier Bethesdy,
+2672:  KMM - Nie.
+2673:  KMM - Okazuje się, że na ścianach, gdzie poznajemy ten język, to są ściany z smoczego języka, gdzie jak podszedłszy otrzymujemy kolejny glif składający się na jakieś zaklęcie, którego potem używamy.
+2685:  KMM - Myślisz sobie, no dalej mechanika, growa prosta, podchodzę do ściany, dostaję fragment zaklęcia, następna ściana, następna ściana.
+2690:  KMM - Jest jeden problem.
+2691:  KMM - Na tych ścianach są poematy.
+2693:  KMM - Nikt nie musiał tego zrobić, ale tak, te trzy poematy składają się na wiersz na temat jednego z zaklęć, które pozyskujemy w języku smoczym.
+2701:  KMM - Co więcej, te poematy właśnie zostały zapisane w języku smoczym, tym alfabetem klinowym i na podstawie tego gracze byli w stanie zrekonstruować ten język tak, jak byliśmy w stanie zrekonstruować hieroglify dzięki kamieniowi z Rosetty.
+2714:  KMM - I potem zaczęli uczyć się tego języka.
+2717:  KMM - Jest do dzisiaj strona tuum.org, pisze się to t-h-u-u-m-org,
+2722:  KMM - gdzie możemy faktycznie dostać ćwiczenia, porady, jak to należy wymawiać, jest alfabet cały, no autentycznie są zadania językowe.
+2731:  KMM - No i też można zadać sobie pytanie, po cholerę to komukolwiek, a na przykład chór, który śpiewał fragment Sovngarde, napisany przez Jeremy'ego Sola, a niby skąd miał wiedzieć, jak to należy przeczytać?
+2742:  KMM - No ktoś musiał zrobić na jakimś etapie transkrypcję fonetyczną i powiedzieć, ten dźwięk się czyta tak.
+2749:  KMM - Ale skoro to zrobił, to gdzieś to zostało w jakichś dokumentach gry i można to potem wykorzystywać dalej.
+2754:  KMM - Więc jak najbardziej język w grach się rozbija na takie dwa powiedzmy.
+2759:  KMM - Jeden to będzie ten język kodu, który wykorzystujemy na najbardziej bazowym, elementarnym, atomowym poziomie do tego, żeby projektować interakcje w grze, mechaniki, dynamiki, systemy.
+2769:  KMM - ale później będziemy mieli ten język, którym posługują się bohatery, więc nasz język naturalny.
+2774:  KMM - Tutaj dochodzi długa dyskusja na temat lokalizacji gier, wideodubbingów, lokalizacja gry, nie mylić z lokacją.
+2779:  KMM - Lokacja to miejsce, lokalizacja to jest tłumaczenie na dany język.
+2784:  KMM - Polska lokalizacja oznacza, że są polskie dialogi na przykład, ale nie musi być pełna, bo wtedy oznacza, żebyśmy wtedy dogrywali jeszcze kwestie dialogowe.
+2791:  KMM - No i oczywiście mamy ten trzeci etap, najtrudniejszy, na który nie wszyscy się decydują.
+2795:  KMM - Conlang, stworzenie języka sztucznego, ksenojęzyka.
+2798:  KK - Można wziąć przecież naturalny język, nie wiem, suahili na przykład.
+2803:  KK - W cywilizacji pamiętam, że takie piękna modlitwa ojczyna suahili była śpiewana, prawda?
+2812:  KK - Czemu tego nie robi?
+2812:  KK - To się też zdarza.
+2814:  KMM - John Williams wykorzystywał sanskryt do pieśni na pogrzebie Padme Amidali.
+2819:  KMM - Spoiler z Padme Amidalą, przepraszam.
+2822:  KMM - Oprócz tego w Matrixie jest w sanskrycie śpiewany werset z Upanishad w trakcie walki Neo ze Smithem.
+2831:  KMM - Spoiler odnośnie do walki Neo ze Smithem.
+2834:  KMM - Więc to się zdarza absolutnie, tylko myślę, że tutaj trzeba właśnie wybierać bardzo takie ezoteryczne języki i też uważać na to, że no dobra, jeżeli weźmiemy ten ezoteryczny z naszej europejskiej perspektywy język, no to ludzie, którzy mieszkają w Indiach na przykład i posługują się sanskrytem, niektórzy się posługują jeszcze, to jest język niemartwy, ale wygasający, no to dla nich to nie będzie egzotyczne.
+2856:  KMM - Ja wiem, co tu się dzieje.
+2858:  KMM - To jest troszeczkę tak, jakbyśmy mieli elfy, które nagle zaczynają się posługiwać językiem śląskim na przykład.
+2866:  KMM - Jeśli już, to byśmy to dopasowali do krasnoludów bardziej, ale trochę jednak by to nie pasowało.
+2871:  KMM - Więc to jest ciekawe bardzo, jak używany język wpływa na to, jak myślimy.
+2875:  KMM - Natomiast na pewno jest takie przekonanie wśród światotwórców, że trzeba być jak Tolkien.
+2880:  KMM - Tolkien jednak stworzył te Quenie, Sindarin i wszelkie odmiany języków ludzkich, język kazalit, czyli język krasnoludowy, by dużo tego było, no i czarną mowę.
+2890:  KMM - To jest najciekawszy chyba kazus.
+2892:  KMM - Czarna mowa korzysta z głosek frykatywnych, bo...
+2895:  KMM - To jest moja hipoteza, ale dużo stworzeń, których się boimy, węże, syczą.
+2901:  KMM - Więc w wielu językach głoski frykatywne są używane w słowach, które budzą lęk albo są nieprzyjemne.
+2906:  KMM - Tak samo, nie wiem, teraz nie będę szumiał do mikrofonu, ale gdybym zaszumiał, to byłoby to nieprzyjemne, zwłaszcza dla tych, którzy noszą słuchawki.
+2912:  KMM - A zatem wszystkie te w czarnej mowie
+2917:  KMM - Są ciary, nie?
+2918:  KMM - Ale one są uniwersalnie u wszystkich użytkowników wszystkich języków, dlatego że Tolkien przyjrzał się temu właśnie jak na takim bardzo atomowym poziomie są używane różnego rodzaju zgłoski.
+2931:  KMM - Tylko to jest też ciekawe.
+2932:  KMM - Tolkien powiedział, że nigdy nie będzie rozwijał czarnej mowy, bo ona jest zła.
+2936:  KMM - Więc tam mamy bardzo niewiele słów w czarnej mowie, ale języki elfickie Aquenia i Sindarin są opisane w taki sposób, że jest grupa użytkowników, która nie tylko się nimi posługuje, ale też je rozwija.
+2947:  KMM - Tak samo pismo elfickie Tengwar jest rozwijane.
+2950:  KMM - Taką osobą, która na przykład uczy pisania Tengwaru jest Ryszard Derdziński, który prowadzi Tolkienowski Serwis Informacyjny.
+2957:  KMM - To się dzieje jak najbardziej i można to robić, tylko zawsze zwracam uwagę, że to jest takie już światotwórstwo poziomu mistrzowskiego.
+2963:  KMM - Tak samo jak ksenokartografia, czyli projektowanie z kolei map fantastycznych.
+2968:  KMM - Ja mam taką mapę na ścianie, została zaprojektowana przez kartografa niepraktycznego, polecam jego profil najserdeczniej i jego pracę, ale on w bardzo specyficzny sposób do tego podchodzi, bo kreśli mapy tak, jakby należało zgodnie ze sztuką kartograficzną,
+2981:  KMM - A nie tak, że o tu sobie zrobimy takie kopczykowe góry, a tu sobie poprowadzimy rzekę.
+2986:  KMM - Już ile razy widziałem mapy światów fantastycznych, gdzie rzeki płynęły np.
+2991:  KMM - od morza w górę, co nie miało żadnego sensu, ale no tak płynęły, tak?
+2996:  KMM - Więc to się zdarza, ale różni ludzie to wybaczali mówiąc, że to nie ma żadnego znaczenia.
+3000:  KK - Z drugiej strony to jest fantastyka, to chyba można zmieniać trochę fizykę, czy nie?
+3004:  KMM - No i tu jest właśnie to ciekawe pytanie, które mamy.
+3007:  KMM - Ja uważam, że absolutnie nie jest argumentem, chociażby na rzecz tezy, że możemy sobie cokolwiek robić w fantastyce, to że smoki zieją ogniem i jest magia.
+3017:  KMM - No tak, oczywiście jest, ale jeżeli na przykład mamy świat, który jest stylizowany na średniowiecze, w którym żyją smoki, jest magia,
+3025:  KMM - No to musimy sobie zadać podstawowe pytanie, chociażby jeżeli chcemy mieć multietniczne miasto, bo to jest popularna rzecz teraz, no to dobrze, czyli są warunki ku temu, tak?
+3033:  KMM - Jaka była migracja ludów i wędrówka ludów?
+3037:  KMM - Czy są techniczne warunki do tego, żeby ludzie ze strefy podwzrotnikowej migrowali do strefy umiarkowanej?
+3042:  KMM - Czy w ogóle są takie strefy klimatyczne w tym świecie i na tej planecie?
+3046:  KMM - No i wtedy możesz sobie odpowiedzieć na to pytanie, że no, mamy bramy teleportacyjne na przykład.
+3050:  KMM - Okej, czyli masz społeczności multietniczne i nikogo to nie dziwi.
+3053:  KMM - Ale jeżeli tego nie powiesz, to co robi nasz mózg?
+3055:  KMM - Nasz mózg wtedy mówi, okej, to jest niedopowiedziane, czyli ja biorę całą swoją wiedzę z zakresu średniowiecza, ogólną, która mówi mi, że miast multietnicznych nie ma.
+3064:  KMM - W Europie przynajmniej.
+3065:  KMM - Więc jeżeli mam europejski zamek, a nie żaden inny, no to będę się sprzeciwiał mówiąc, nie, to jest nierealistyczne, żeby tutaj się pojawiły na przykład osoby czarnoskóre, bo nie mogą się tutaj pojawić, to był kazus, który mieliśmy przy Wiedźminie.
+3077:  KMM - I on jest ciekawy.
+3079:  KMM - A już na pewno, jeżeli mówimy o świecie Tolkiena, gdzie ludy czarnoskóre są sportretowane w Rune i na południu w Haradzie z tego właśnie względu, że tam nie ma technologicznych możliwości na tego rodzaju migrację.
+3093:  KK - Naprawdę jest taki z tym problem w odbiorze?
+3096:  KK - Bo ja mam wrażenie, nie wiem, oglądasz musical Hamilton, prawda, ojcowie założyciele nie byli
+3106:  KK - kolorowi, a tu jednak się okazuje, że mogli być.
+3111:  KMM - Mam wrażenie, że jeżeli jest to cokolwiek osadzone w naszej rzeczywistości, to mamy o wiele większe pole manewru.
+3117:  KMM - Natomiast jeżeli zmieniamy jakiekolwiek dane w rzeczywistości fikcyjnej, to zauważ, że
+3122:  KMM - To jest tak, jakbyś wyrzucał komuś koło ratunkowe albo pozbawiał jedynej kotwicy poznawczej.
+3127:  KMM - Nasz mózg potrzebuje stałości.
+3128:  KMM - Więc jeżeli ja mam świat, który wiem, że nie istnieje, to ja chcę, żeby tam były jakieś prawa, które działają po to, żebym nie zwariował.
+3134:  KMM - Żebym miał jakiś pewnik, bo wszystko inne się może zmienić.
+3137:  KMM - I jest bardzo dobry esej na ten temat o...
+3140:  KMM - istnieniu postaci fikcyjnych, autorstwa Umberto Eco, Ontology of Fictional Characters.
+3144:  KMM - I on tam mówi, że, to jest interesujące, to znaczy, że australijski akwarelista, austriacki akwarelista, muszę tak powiedzieć, żeby nas nie zbanowali, jest postacią mniej faktyczną niż, czy jego śmierć, ciśnienie mówiąc, niż śmierć Anny Kareniny u, w Annie Kareniny Lwatu, spojler z Anny Kareniny.
+3163:  KMM - Dlaczego?
+3164:  KMM - No więc to ktoś może się obudzić.
+3165:  KMM - Nie, nie, przecież na pewno austriacki akwalista zmarł wtedy, a wtedy.
+3170:  KMM - No tak, dopóki nie znajdziemy dokumentu historycznego, który mówi, że jest inaczej.
+3174:  KMM - I wtedy musimy przepisać wszystkie podręczniki, wszystkie filmy nakręcić na nowo, zrobić korekty, wszystkie programy nauczania na całym świecie.
+3182:  KMM - Ile roboty?
+3183:  KMM - A tymczasem możemy sobie napisać 15 pipsztylionów książek, w których Anna Karenina jednak przeżyła i dalej ona umrze w powieści Lwatu Ostoja.
+3191:  KMM - To jest ten paradoks, który mamy, że fakty, które ustanawiamy w świecie fikcyjnym często są trwalsze od faktów, które mamy w rzeczywistości.
+3199:  KMM - I zawsze polecam zastanowić się nad tym, komukolwiek kto w ogóle chce zrozumieć, dlaczego to może być problem dla fana czy dla gracza, że coś się zmienia w danym świecie.
+3210:  KMM - Po prostu my wszyscy podskórnie czujemy, że one nie istnieją, więc chcemy mieć pewne wartości stałe, które są w tym świecie ustanowione, żeby móc iść dalej, nie zastanawiać się nad tym.
+3221:  KMM - A jeżeli coś zostanie zmienione, to niech ktoś po prostu to w racjonalny sposób wytłumaczy, prawda?
+3226:  KMM - Teraz jest bardzo głośna sprawa z wprowadzeniem w...
+3230:  KMM - Adeptus Castodes, postaci kobiecych w uniwersum Warhammera 40 tysięcy.
+3236:  KMM - Nie ma żadnego problemu, pomijając fakt, że Games Workshop zakomunikowało to w ten sposób, zawsze tam były postaci kobiece.
+3243:  KMM - I fani mieli taki, nie no, zaraz, jak to zawsze?
+3245:  KMM - No i zaczynają sprawdzać, prawda?
+3246:  KMM - I się okazuje, że nie zawsze.
+3248:  KMM - Okazuje się, że w ogóle nie powinien być problem, mamy...
+3251:  KMM - Dwa zakony stricte żeńskie, stricte w uniwersum i równocześnie dwa stricte męskie i Adeptus Castodes był jednym z nich.
+3258:  KMM - Zresztą jak Adeptus łacińskie nam mówi, końcówka gramatyczna bardzo wyraźnie klaryfikuje z jakim rodzajem mamy do czynienia, więc coś tutaj jest nie tak i...
+3267:  KMM - I fani w tym przypadku mają rację.
+3269:  KMM - Jest też to bardzo dobry film na ten temat, że przez 10 tysięcy lat istnienia uniwersum nikt się nie zorientował, że w Adeptus Castodes są też żeńskie postaci.
+3278:  KMM - I jak spojrzymy na to z perspektywy zewnętrznej, to się wydaje, że to jest w ogóle jakiś absurd kompletny, że z perspektywy krytyki feministycznej i tak dalej powinniśmy to obśmiać.
+3286:  KMM - Tak, ale nie.
+3287:  KMM - Właśnie tu jest ten jeden problem.
+3288:  KMM - Jeżeli ktoś traktuje niepoważnie odbiorców i nie klaryfikuje, nie wyjaśnia, tylko mówi somehow Palpatine returned, jak to w mojej ulubionej części Gwiezdnych Wojen, no to nie dziwmy się, że ludzie będą mieli z tym problem.
+3302:  KMM - To jest leniwe pisarstwo.
+3305:  KMM - I światotwórstwo, jeśli czegoś wymaga, to moim zdaniem w mniejszym stopniu talentu, mistrzostwa, wirtuozerii, jeśli chodzi o kunsztowne operowanie słowem,
+3316:  KMM - Ale na pewno wymaga braku lenistwa.
+3319:  KMM - Nie można być leniwym.
+3320:  KMM - Trzeba znaleźć wytłumaczenie.
+3322:  KMM - Ludzie potrafią wynajdować niesamowicie kreatywne wytłumaczenie i wyjaśnienia najbardziej dziwacznych rzeczy.
+3328:  KMM - I to jest przyjemne, to jest fascynujące.
+3330:  KMM - I ludzie dzięki temu są przez lata zainwestowani, powiem po angielsku trochę, w rozwój danego uniwersum, używając zwrotu Mary Lou Ryan, mówiącej o zainwestowaniu poznawczym.
+3341:  KMM - To jak my inwestujemy w te światy, to nie jest tylko wymiar finansowy, my inwestujemy swoje godziny.
+3347:  KMM - Poznawczo się inwestujemy w dane światy i chcemy zyskać jakieś dywidendy, jak w przypadku każdej inwestycji.
+3352:  KMM - Więc jeżeli ktoś nas nie szanuje wtedy, no to wycofujemy swoje udziały.
+3356:  KMM - To jest bardzo proste i wydaje mi się, że fakt, że niektóre światy przez 40, 50 lat się rozwijają, nie może powodować sytuacji, w której przyjdzie jakaś jedna osoba i powie, a, te wszystkie lata rozwoju nie mają znaczenia.
+3370:  KMM - Ja uważam, że teraz zmieniamy politykę i jest tak.
+3372:  KMM - To jest lenistwo.
+3374:  KK - Ja wiem, że ty wnikasz w te światy na wiele godzin, a gdybyś miał tak się przenieść realnie do takiego świata na 24 godziny... Tylko?
+3388:  KMM - Który świat byś wybrał?
+3390:  KMM - Na pewno nie świat Warhammera, bo tam bym zginął.
+3393:  KMM - W świecie Warhammera 40 tysięcy, szansa na to, że się zginie jest bardzo wysoka, biorąc pod uwagę to, że to jest świat, w którym jednego dnia powstaje kilka planet i równocześnie kilka planet zostaje zniszczonych.
+3405:  KMM - Więc przerażająca to jest rzeczywistość.
+3407:  KMM - Natomiast wydaje mi się, że chyba w największym stopniu do takiego, w którym byłaby magia, nie?
+3413:  KMM - Myślę sobie o świecie Kronik Królobójcy, Patrika Rothfusa, świecie chociażby tolkienowskim, chociaż może w mniejszym stopniu, bo tam akurat udział magii jest niewielki.
+3423:  KMM - Ale tak, na pewno taki, w którym byłby interesujący system magiczny i w którym mógłbym się tej rzeczy, magii nauczyć.
+3428:  KMM - Bo to jest ta jedna rzecz, na której mi bardzo, faktycznie, brakuje w naszej rzeczywistości.
+3432:  KMM - Zauważcie, że zupełnie poważnie mówiąc, tak, bo zauważcie, że nasza rzeczywistość jest jednak
+3437:  KMM - przez postępującą sekularyzację i tak dalej, ona jest pozbawiona tego aspektu mistycznego, a my przez wszystkie lata istnienia ludzkiej cywilizacji gdzieś tam element ten spirytualny, duchowy, mistyczny mieliśmy w tej czy innej postaci.
+3452:  KMM - Zawsze...
+3453:  KMM - Zawsze do tego dążyliśmy jakoś.
+3455:  KMM - I trochę tego brakuje.
+3456:  KMM - Myślę, że to nie jest takie bez znaczenia, że akurat dziś mamy taką niesamowitą eksplozję różnego autoramentu opowieści fantastycznej, bo też nie jest rzeczą przypadku, że jakieś 90%, lekko licząc, gier wideo jest jednak osadzonych w światach wyobrażonych.
+3471:  KMM - To nie jest rzeczą przypadku, że mieliśmy duże uniwersa filmowe typu Marvel Cinematic Universe i jakby my przeszliśmy do porządku dziennego nad tym, że ludzie już nie mówią, że to jest
+3480:  KMM - seria albo seria albo saga, tylko że to jest uniwersum.
+3483:  KMM - Zaakceptowaliśmy to nagle, że to się dzieje.
+3485:  KMM - To nie jest bez znaczenia, wydaje mi się, więc myślę, że po prostu brakuje nam w tym naszym kociokwiku i kołowrotku codziennych spraw takiego oddechu i ujścia w sferę, która jest może właśnie nieistniejąca nadprzyrodzona, nadnaturalna, ale w pewien przewrotny sposób prosta, gdzie dobro jest dobrem, a zło jest złem, nie?
+3508:  KK - Gdybyśmy osobom słuchającym, oglądającym nas, mieli zarekomendować takie trzy kroki na wejście w ten świat, czy świat otwórstwa, czy tworzenia gier, co byś polecił?
+3522:  KMM - Mam wrażenie, że jeżeli ktoś by chciał od strony literackiej na przykład, to najprostsze wydaje mi się, to niedoceniane jest dobranie sobie dobrej muzyki do czytania książki.
+3532:  KMM - Bardzo niedoceniane.
+3533:  KMM - Ja to robię od lat praktycznie.
+3534:  KMM - Archiwum Bożowego Świata czytałem przy utworze Niol Jeremiego Sola na przykład, Zapędlonym.
+3539:  KMM - To właśnie po to, żeby wejść w ten trudny dla nas dzisiaj w przebodźcowanych czasach moment koncentracji głębokiej i zanurzenia.
+3548:  KMM - Więc to bardzo sprzyjało.
+3550:  KMM - Jeżeli chcemy iść do kina na przykład, no to też polecam oddać się temu w całości.
+3556:  KMM - Nie zadbać o to, żeby nie było różnego rodzaju dystrakcji, które sprawiają, że jesteśmy jeszcze bardziej przebodźcowani.
+3562:  KMM - To jest te słynne nasze wymymowanie telefonu itd., itd.,
+3566:  KMM - Jeżeli chodzi natomiast o taką stronę praktyczną, jakby ktoś się chciał zająć światotwórstwem, to są trzy metody, które polecam.
+3571:  KMM - Jedna to jest metoda hasła słownikowego.
+3574:  KMM - Zaczynasz od słowa i próbujesz je zdefiniować.
+3577:  KMM - Mamy słowo miecz świetny i mówimy, że mieczami świetnymi posługują się rycerze Jedi, którzy mają świątynię na Kurusant.
+3583:  KMM - No i mamy już trzy rzeczy następne do zdefiniowania.
+3585:  KMM - Kurusant, świątynia Jedi i kim są Jedi.
+3589:  KMM - Metoda słownikowa, to jest ciekawe, ona nam wytwarza nowe pojęcia, które musimy zdefiniować.
+3595:  KMM - Jest trochę odwrotnością metody słownikowej z naszego świata, która mówi, że nie należy definiować ignotum per ignotius, czyli nieznanego bardziej nieznanym.
+3602:  KMM - W przypadku metody słownikowej dla świata fantastycznego właśnie to działa.
+3606:  KMM - To znaczy trzeba definiować nieznane bardziej nieznanym, bo to stymuluje ciekawość i sprawia, że widzimy, ok, muszę stworzyć następną rzecz.
+3612:  KMM - Druga metoda to jest metoda mapy i znowu będzie odwrotność względem map z naszej rzeczywistości, gdzie mapa musi być odwzorowaniem kartograficznym przestrzeni, najczęściej w rzucie dwuwymiarowym, oczywiście tych rzutów mamy N, wszyscy kartografowie, geodeci wiedzą, że wszystkie mapy są niedokładne, więc tam dążymy do dokładności oczywiście, ale musimy się decydować na jakąś perspektywę, na jakiś rzut.
+3634:  KMM - Tu znowu jest inaczej, to znaczy my tworzymy mapę i wytwarzamy rzeczywistość, więc ten proces jest odwrotny.
+3641:  KMM - I bardzo często może być tak, że jak sobie zaczynamy rysować mapę, to od razu nam przychodzi coś do głowy.
+3645:  KMM - Jest taka bardzo prymitywna metoda, ta zjemnie kartograf niepraktyczna, akurat trefowałem wcześniej,
+3650:  KMM - To znaczy, że rozsypujemy ryż na kartce papieru i robimy sobie obrys linii brzegowej na podstawie tego.
+3656:  KMM - Jeżeli naprawdę nie wiemy, co zrobić.
+3658:  KMM - Jest jeszcze trzecia metoda.
+3660:  KMM - Trzecia metoda jest najbardziej skomplikowana, powiedzmy.
+3663:  KMM - To znaczy, zaczynamy od jakiejś opowieści.
+3666:  KMM - Wtedy zastanawiamy się, czy ta opowieść nas zaprowadziła gdzieś, doprowadziła do czegoś, co wymyśliliśmy.
+3672:  KMM - I w tej opowieści musi być tajemnica.
+3675:  KMM - Więc to jest, ja to nazywam metodą kotwicy tajemnicy.
+3678:  KMM - To znaczy musi nas zakotwiczyć w jakimś miejscu, które jest interesujące z jakiejś perspektywy i wokół tego zaczynamy rozbudowywać świat.
+3685:  KMM - No taką tajemnicą w świecie podtera jest ta blizna, którą ma Pony.
+3689:  KMM - Nie wiadomo dlaczego on ma i dlaczego przeżył.
+3691:  KMM - No i wokół tego możemy skonstruować cały świat, ale możemy też mieć, nie wiem,
+3696:  KMM - chociażby w Simarillionie, tytułowe Simarille.
+3699:  KMM - To jest tajemnica, co się z nimi stało, dlaczego w ogóle doszło do tego wszystkiego, do kradzieży i wokół tego konstruujemy wszystkie opowieści.
+3705:  KMM - Więc zawsze taka gdzieś tajemnica, która tkwi, może być takim motorem napędowym, nie tylko w samej fabuły, ale naszego myślenia o świecie.
+3713:  KMM - Że wymyśliliśmy jedną rzecz i ona jest na tyle interesująca, że warto wokół niej stworzyć jakąś fikcyjną rzeczywistość.
+3718:  KMM - Te trzy metody bym polecał.
+3720:  KMM - A jeżeli chodzi jeszcze o odbiór
+3722:  KMM - No to zawsze będę powtarzał, że wszystkie media są równowartościowe.
+3727:  KMM - Jeżeli ktoś chce anime, super.
+3729:  KMM - Jeżeli ktoś chce literaturę, super.
+3731:  KMM - Ktoś chce gry, jeszcze lepiej.
+3733:  KMM - Natomiast za każdym razem ten nasz odbiór nie powinien być moim zdaniem takim
+3739:  KMM - samodyscyplinującym, że och, ja teraz będę przeznaczał czas na coś niesamowicie wartościowego, więc przeczytam albo zagram, albo obejrzę coś, co jest nagradzane wyłącznie.
+3748:  KMM - Ja bym podchodził do tego bardzo hedonistycznie, przyjemnościowo.
+3750:  KMM - Mamy wystarczająco dużo obowiązków, wystarczająco dużo trosk i zmagań, żeby jeszcze sobie dokładać to w obszarze odpoczynku.
+3757:  KMM - Jak odpoczywamy, zdecydujmy się na coś, co rzeczywiście przynosi nas do innej rzeczywistości, daje nam wytchnienie i jest przyjemne w odbiorze.
+3763:  KMM - I jak się nudzimy,
+3765:  KMM - to po prostu przerwijmy.
+3766:  KMM - Jest tak dużo alternatyw, że szkoda tracić czasu na coś, co nas po prostu nie przynosi do innego świata.
+3773:  KK - Krzysztofie, bardzo dziękuję Ci za dzisiejszą rozmowę.
+3778:  KK - Naszym gościem był Krzysztof Maj.
+3780:  KK - Dziękujemy.
+3781:  KK - Dzięki serdeczne.
