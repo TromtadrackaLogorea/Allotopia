@@ -1,0 +1,680 @@
+Czy da się naprawić polski system edukacji? - Krzysztof M. Maj - Rozkwit Skrzydeł
+🔗 https://www.youtube.com/watch?v=dcWd-Napm5U
+KMM (Krzysztof M. Maj)
+PO (Piotr Ogłaza)
+
+0:  PO - Witam wszystkich w pierwszym podcaście projektu Rozfit Skrzydeł.
+5:  PO - Gościem będzie Krzysztof M. Maj.
+7:  KMM - Dzień dobry, witam wszystkich serdecznie i dziękuję za zaproszenie.
+10:  PO - A prowadzącym będzie Piotr Ogłaza.
+12:  PO - Krzysztof, czy mógłbyś powiedzieć trochę o sobie?
+14:  KMM - Mógłbym, choć tego nie lubię tak wbrew pozorom, to znaczy zajmuję się światotworzeniem i projektowaniem gier wideo od strony narracyjnej na Akademii Górniczo-Hudniczej w Krakowie na Wydziale Humanistycznym.
+26:  KMM - No a niezależnie od tego prowadzę kanał na YouTubie pod własnym imieniem i nazwiskiem, gdzie mi się zdarza rzeczone gry streamować, czasami o nich mówić, a najczęściej wspominać o tym, co jest częścią główną mojej pracy, czyli edukacji, kulturze, ewentualnie także literaturze, jeżeli takie tematy się nadarzą.
+43:  PO - Tak.
+44:  PO - Szczególnie wszyscy uczniowie uwielbiają Twoje, można by powiedzieć, odcinki teoretycznie naukowo przedstawione, różne aspekty związane ze szkołą.
+61:  PO - Starasz się to tak jakby...
+64:  PO - przedstawić jak bardzo jest to niefajne i tak naprawdę nie z dupy, tylko poprzedzając się takimi różnymi badaniami czy na przykład po prostu też różnymi takimi dosyć popularnymi artykułami.
+81:  KMM - Dla mnie po prostu nie ma różnicy między edukacją, która jest wcześniejsza, a edukacją, która jest późniejsza.
+88:  KMM - Więc jak patrzę na rozwój człowieka, to zasadniczo staram się na to spoglądać holistycznie, ogólnie, od samego początku do samego końca.
+98:  KMM - Przez to też, że przeszedłem w którymś momencie przez trzy praktyki zawodowe w podstawówce, w gimnazjum jeszcze jak były.
+105:  KMM - i w liceum, to miałem okazję zobaczyć, że co do zasady, jeżeli traktujesz człowieka jak człowieka po partnersku i z nim rozmawiasz, to już z samej takiej rozmowy może bardzo dużo wyjść.
+116:  KMM - Podam szybki przykład z mojej dyscypliny, czyli tej, której mam doktorat z literaturoznawstwa, mianowicie książki, powieści.
+125:  KMM - Przeciętne założenie jest takie, że nikt nie czyta.
+128:  KMM - Natomiast problem polega na tym, że to założenie jest przyjmowane zanim się spyta ludzi, czym się interesują.
+133:  KMM - No i to jest podstawowa kwestia.
+135:  KMM - Zawsze jak ktokolwiek pyta mnie, czy mam mu jakąś książkę do polecenia, to ja baranieję i pytam, no ale...
+140:  KMM - No ale czym się interesujesz?
+141:  KMM - Powiesz mi coś o sobie, to ja ci wtedy coś polecę.
+144:  KMM - Muszę wiedzieć, jakie lubisz settingi, jaką estetykę, nie wiem, czy to jest bardziej historyczne, czy bardziej naukowe, to wtedy albo fantasy będzie, albo science fiction, a może kryminał, to wtedy jeszcze coś innego, a może w ogóle nie książka, tylko gra.
+158:  KMM - bo prawda jest taka, że z tego też zaczynamy mieć potężne zaległości, bo każdy medium się starzeje i wiesz, nagle się okazuje, że z takiej rozmowy prostej wychodzi ci, że nie potrzebujesz mieć kanonu lektur.
+168:  KMM - No i takich przykładów jest oczywiście bardzo dużo, ale w moim przekonaniu one wynikają z tego, że za mało jest tej rozmowy.
+175:  KMM - Jest dużo nauczycieli, którzy osiągają sukcesy, to są najczęściej ludzie, którzy dobrze znają swoich uczniów, mają na to czas, nie zajmują się bzdurami w rodzaju
+184:  KMM - robienie na przykład 15 pipszterionów, kartkóweczek i teścików, tylko przeznaczało to raczej na to, żeby w tym czasie pomóc indywidualnie ludziom, albo porozmawiać z nimi, dowiedzieć się czym się interesują, albo wiesz, wyłuskać jakieś talenty i skierować na olimpiadę, albo wręcz przeciwnie, powiedzieć komuś, słuchaj, bo masz tutaj fach w ręku, nie idź na studia, tylko zajmij się tym.
+206:  KMM - To jest rola człowieka, która jest nie do zastąpienia.
+210:  KMM - Wszystkie inne, niestety, taka smutna prawda,
+212:  KMM - Obszary działalności nauczycieli, te, które są zuniformizowane czy zalgorytmizowane, a więc właśnie testowanie, sprawdzanie wiedzy i tak dalej, to niestety może przejąć z łatwością dowolny duży model językowy.
+226:  KMM - I dla mnie było przerażającym doświadczeniem to, jak mi ludzie po raz pierwszy powiedzieli, że czat GPT był dla nich bardziej empatyczny niż nauczyciel, bo mnie to przeraziło dosłownie, bo on nie jest empatyczny.
+237:  KMM - Na tym rzecz polega.
+238:  KMM - On nie jest empatyczny.
+239:  KMM - On jest po prostu algorytmem, który przewiduje mnóstwa różnych wariantów, jaka odpowiedź będzie najbardziej pasowała do tego szeregu, który mu się ładnie teraz układa i koreluje z systemem, który sobie zastał wcześniej.
+251:  KMM - Więc to nie jest empatia.
+253:  KMM - I empatii nie jesteśmy w stanie w żaden sposób zastąpić.
+255:  KMM - Dlatego ja jestem właśnie zdecydowanie po stronie przemodelowania myślenia o szkolnictwie w kierunku rozwoju indywidualnego, coachowania, tutoringu.
+267:  KMM - Na tyle, na ile jesteśmy w stanie to zrobić.
+268:  KMM - Oczywiście trudne jest to na skalę masową w szkole, ale to nie znaczy, że to jest niemożliwe, bo są takie przypadki i miałem szczęście poznać takich ludzi.
+276:  PO - No tak, nawet prawda jest taka, że tak naprawdę jak już znajdą się nauczyciele, którzy chcą pomagać uczniom, chcą jakby po prostu oddać z siebie wszystko w tym zawodzie, to i tak podstawa programowa w sumie ucina im skrzydła,
+293:  PO - Co z tego, że np.
+293:  PO - nauczyciel polskiego chce sobie omówić na przykład Dune, jak ma jakiś, nie wiem, Mickiewicza do przeanalizowania?
+300:  KMM - Ale absolutnie, bo to jest bardzo ważna sprawa, ponieważ wybitni ludzie zawsze są krępowani przez system, więc wybitnym nauczycielom jest ciężej.
+310:  KMM - Tak samo problem jest też ludziom, którzy sobie nie radzą na przykład.
+313:  KMM - To są dwie grupy, które najbardziej potrzebują edukacji, taka jest prawda, a są najbardziej przez nią dyskryminowane.
+320:  KMM - Natomiast jeżeli ktoś...
+322:  KMM - jest na tej krzywej gausie, gausa w tym wymiarze przeciętnym, tak, no to wtedy on sobie jakoś poradzi, tak, dostosuje się.
+329:  KMM - Ja zawsze zazdrościłem swoją drogą ludziom, którzy są tak, mówimy o nich przeciętnie, a w zasadzie powinniśmy powiedzieć, że są jeszcze jakby nieukształtowani, albo mają bardzo dużo różnych zainteresowań, albo są bardziej elastyczni, mają więcej kompetencji społecznych, może są...
+341:  KMM - ulegliwi, są w stanie przystać na różnego rodzaju kompromisy.
+345:  KMM - Milion różnych opcji jest, ale to jest ta rzesza ludzi, którzy są w stanie się dostosować i nie rozumieją bardzo często problemu.
+351:  KMM - Wiesz, typ, ok, chodzę do pracy od 8 do 16, nie przeszkadza mi to.
+356:  KMM - Ja bym oszalał.
+357:  KMM - Ja nie jestem w stanie w ten sposób funkcjonować w ogóle.
+359:  KMM - Próbowałem, żeby nie było, ale nie jestem w stanie.
+362:  KMM - Dlatego też wydaje mi się, że w takiej sytuacji
+366:  KMM - Gdy dwie grupy, które naprawdę najbardziej potrzebują tej indywidualizacji kształcenia, najbardziej też cierpią i po stronie uczniów, i po stronie nauczycieli, to mamy do czynienia z problemem.
+375:  KMM - Oczywiście osobną kwestią jest też to, że likwidacja jakichkolwiek minimów programowych jest o tyle skomplikowana, że państwo trzyma łapę na egzaminach różnego autoramentu.
+384:  KMM - Tylko, że problem cały czas polega na tym, że
+387:  KMM - Matura nie jest rozpoznawana przez pracodawców jako, wiesz, cokolwiek, co coś znaczy, a powinna być, a jest raczej traktowana jako bilet wstępu na studia, którym nie powinna być, bo studia nie są dla wszystkich, tylko naprawdę powinny być dla ludzi, którzy, wiesz, mają czas, pieniądze, to jest też najważniejsze, o tym się nie mówi, pieniądze i siły i determinacje, żeby, wiesz, poświęcić pięć lat życia na to, żeby...
+410:  KMM - rozwijać się w jakimś kierunku, który może okazać się totalnie niezgodny np.
+415:  KMM - z twoimi zainteresowaniami albo o nierentownym na rynku pracy, to się też bardzo często zdarza.
+421:  KMM - To są trudne decyzje i nie wszyscy powinni być zmuszani do tego, żeby je podejmować, a w tym momencie mamy cały czas rosnący odsetek ludzi aplikujących na studia.
+431:  KMM - Teraz świeżo pracowałem nad odcinkiem, wyjdzie dzisiaj o akademikach.
+436:  KMM - I od lat 90. liczba akademików nie wzrosła.
+439:  KMM - Pokrywa jakieś 14% zapotrzebowania studentów.
+443:  KMM - Natomiast liczba studentów wzrosła.
+445:  KMM - Liczba uniwersytetów nowo wybudowanych też wzrosła, a liczba pracowników naukowych uczących nie.
+451:  KMM - Z czego wynika, że mamy sztuczne pompowanie tego zapotrzebowania z tego względu, że uczelnie dostawały dotacje od państwa.
+459:  KMM - To jest system naczyń połączonych.
+460:  KMM - To też strasznie ciężko o tym rozmawiać i wszystkie rozmowy o edukacji zmieniają się w festiwal dygresji, ponieważ to są naczynia połączone.
+467:  KMM - Wszystko się łączy ze wszystkim.
+468:  KMM - Podstawa programowa łączy się z maturą, matura się łączy z ocenami, oceny się łączą z presją wywieraną przez nauczycieli, którzy nie umieją inaczej motywować ludzi.
+475:  KMM - Motywacja zewnętrzna z kolei wiąże się cały czas z zanikającym poczuciem własnej wartości, bo jak cię cały czas motywuje ktoś zewnętrznie, daje ci albo oceny pozytywne, albo negatywne i w którymś momencie takiego człowieka brakuje, to ty zostajesz z niczym, bo nikt ci nie da takiej oceny już pozytywnej czy negatywnej, nikt ci nie powie, czy robisz dobrze, czy robisz źle i nie masz wykształconej motywacji wewnętrznej.
+494:  KMM - I musisz nad tym pracować sam.
+496:  KMM - Więc to są rzeczy, które się ze sobą łączą w którymś momencie i dlatego moim celem jest zachęcanie ludzi do tego, żeby zaczęli o tym myśleć jak najwcześniej, nieważne czy są uczniami, czy są nauczycielami.
+506:  KMM - Either way wygramy, jeżeli będziemy sobie wcześniej uświadamiać tego rodzaju problemy i po prostu słuchać siebie i swoich potrzeb.
+514:  KMM - Wydaje się proste, ale jest trudne.
+517:  PO - W sumie to masz rację.
+518:  PO - Jakby ja, jeśli chodzi o te szkolnictwo wyższe, to ja teraz siedzę głównie w tym takim, można powiedzieć, zagranicznym rynku, zagranicznym rynku tych studiów i na przykład jakby tam, to dosłownie, żeby się dostać na studia, nie dość musisz mieć fajne CV, które poprzedzone różnego rodzaju społecznymi działaniami, musisz, biorą trochę pod uwagę właśnie też oceny,
+543:  PO - czy tam może być egzaminy i też różnego rodzaju właśnie list motywacyjny.
+548:  PO - W Polsce jesteś tak naprawdę cyferkami od jednego do stu.
+554:  KMM - Niestety, wiesz, mogę powiedzieć z perspektywy człowieka, który egzaminował na studia.
+557:  KMM - Ludziom się wydaje, że egzamin na studia to jest, wiesz, strasznie stresująca rzecz.
+562:  KMM - Nie, to trwało 10 do 15 minut rozmowa z kandydatem, która właśnie...
+567:  KMM - targetowała te obszary, o których wspomniałeś, jakie są motywacje studiowania, jaki cel, ewentualnie dopytywaliśmy o to, właśnie nie wiem, czego się człowiek uczył wcześniej i dlaczego akurat ten kierunek studiów.
+578:  KMM - Tam zadawało się jasna sprawa, jakieś pytania wiedzowe, tylko że wiesz, lista tych pytań była dostępna powszechnie na stronie.
+586:  KMM - pytań, dosłownie, tych, które dostaniesz na egzaminie.
+588:  KMM - Więc to jest zupełnie inne od matury.
+590:  KMM - Ja bym powiedział, że to jest o wiele łatwiejsze od matury.
+592:  KMM - I co więcej, wiesz, jak masz do liczby dostępnych zagadnień, wszyscy sobie myślą, że to jest łatwe, jak każdy się nauczy na pamięć.
+598:  KMM - That's the fucking point.
+600:  KMM - Każdy się nauczy na pamięć i ty wybierasz tych, którzy się nie nauczyli na pamięć i daje ci oryginalne odpowiedzi.
+604:  KMM - Nie sprawdzasz ich wiedzy wtedy, tylko sprawdzasz kreatywność, sprawdzasz nietypowe myślenie poza pudełkiem i wiesz, okej, ten człowiek się nadaje na studia, a jeżeli ktoś wpruł na pamięć i recytuje,
+615:  KMM - To może się po prostu nadaje do tego, żeby sobie zrobić korespondencję, nie jakiś, wiesz, konkretny kurs z konkretnej dziedziny w jakiejś szkole wyższej czy szkole zawodowej, super sprawa, ale na studiach musisz sam się zajmować sobą i sam się rozwijać.
+628:  KMM - To jest strasznie ciężkie, jeżeli ktoś ma takie oczekiwanie, że okej, to ja dostanę listę rzeczy, wpruję sobie na pamięć i zakłuję, zdam, zapomnę.
+635:  KMM - Niestety, ponieważ było takie oczekiwanie latami, bardzo dużo uczelni takich nowych, które wypoczekowały w Polsce, one po prostu się dostosowały do zapotrzebowania rynkowych.
+643:  KMM - Jak ludzie tego chcą, to my to będziemy dawać.
+645:  KMM - I teraz jest afera na pół Polski z kolegiem Kumanum, zwanym złośliwie Tumanum, gdzie kupowali politycy certyfikaty.
+652:  KMM - Ale wiesz, ja na to patrzę z uśmiechem, bo ja widziałem praktyki kupowania certyfikatów już
+657:  KMM - od lat, tylko że to było kupowanie za trochę inną walutę.
+660:  KMM - Myśmy się po prostu umawiali, że my wiemy, że ten dyplom nic nie znaczy, ty go dostajesz, ty nam dowozisz rzeczy, żebyśmy mogli w papierach pokazać, że jest wszędzie 100% i wszyscy są zadowoleni.
+671:  KMM - No i to też jest fatalny układ, bo on do niczego nie prowadzi i w zasadzie marnuje tylko czas ludziom, bo na początku będziesz zadowolony,
+679:  KMM - Jasna sprawa, każdy jest zadowolony, jeżeli ma prościej w życiu na początku, ale potem się orientujesz, że masz przerąbane.
+684:  KMM - I szybki przykład znowu z mojego doświadczenia.
+686:  KMM - Miałem parę takich zajęć, które były proste na studiach, że patrzyło się na nie, zakujemy, zdamy, nie będzie problemu.
+695:  KMM - I wiesz na czym polega dowód?
+696:  KMM - Pierwsze zajęcia, które miałem do poprowadzenia sam już, to były właśnie zajęcia z jednego z tych tematów.
+702:  KMM - Jak ja wtedy przeklałem to, że ja nie podszedłem do tego sam, na własną rękę, tylko stwierdziłem, a ja się nauczę i zdam.
+709:  KMM - O Boże, jak ja to bardzo przeklałem.
+710:  KMM - I nigdy nie wiemy w zasadzie, czy nam się coś takiego w którymś momencie nie przyda, więc wiesz, takie pójście na skróty, to jest trochę traktowanie, i rzeczywiście w tym momencie powiem jak nauczyciel, nieuczciwie samego siebie, ale nie dlatego, że wiesz, że ściągasz, tylko dlatego, że
+724:  KMM - Nie zastanawiasz się nad tym, czy to, czym się chcesz teraz zająć, faktycznie ci się z takiej egoistycznej pobudki do czegoś przyda.
+731:  KMM - Ja bardzo egoistycznie podchodziłem do edukacji.
+732:  KMM - Jeżeli widziałem, że jest jakiś kurs przedmiotu czy coś takiego, zastanawiałem się, ok, co ja z tego będę miał.
+737:  KMM - Jeżeli stwierdzę, ok, ja nic z tego nie będę miał i stwierdzę to uczciwie, to istnieje niezerowe prawdopodobieństwo, że to samo pomyślę za 20 lat.
+744:  KMM - Ale wiesz, jak tak czujesz, że w sumie nie wiem, ale pójdę na skróty, to bardzo często się może okazać, że później cię to ugryzie w życiu.
+752:  KMM - Jestem
+753:  KMM - Ten kłopot i problem.
+754:  KMM - Więc jak ludzie mówią mi, że jestem za na przykład właśnie likwidacją matur i za wprowadzeniem egzaminów wstępnych, no to trochę nie dopowiadają tego kontekstu.
+762:  KMM - A ten kontekst jest fundamentalnie istotny, ponieważ matura współczesna, ta, która jest w tej chwili, z mojej perspektywy, miał ja do niej podejść we własnej dyscyplinie, ona jest dla mnie trudniejsza do napisania niż zdanie egzaminu na studiach wyższych z dokładnie tej samej dziedziny.
+777:  KMM - I to nie jest normalne i tak nie powinno być.
+780:  KMM - Oczywiście moje predyspozycje są bardzo indywidualne, ja bardzo nie lubię testów, nie umiem podpasowywać się pod schemat, no ale hej, takich ludzi też poszukuję się, zwłaszcza na studia humanistyczne, którzy nie podpasowują się pod schemat i którzy chcą być w ten sposób otwarty.
+795:  PO - Niestety matura z polskiego rozszerzonego im w tym nie ułatwia.
+801:  KMM - Ja mogę tylko cały czas powtarzać, że kiedyś było coś takiego jak temat wolny i to było w czasach mojej baby, więc to już było dość dawno.
+810:  KMM - Temat wolny polegał na tym, że dostawałeś pustą kartkę i miałeś pisać.
+816:  KMM - Tylko, że jest jeden oczywiście haczyk.
+818:  KMM - Haczyk polegał na tym, że masz pisać, ale w sposób, który będzie sprytnie ujawniał ile wiesz.
+824:  KMM - Więc wiesz, to jest ciekawe, bo, no tak, czyli użyję jakichś terminów, nie wiem, narrator, świat przedstawiany, cokolwiek, ale równocześnie coś tam powiesz o oświeceniu, coś o czymś innym, wiesz, dobierzesz sobie tak ten temat, żeby jednocześnie obsługiwał twoje zainteresowanie, nie wiem, weźmiesz sobie animkę Fate Stay chociażby i nagle pociągniesz wątek króla Artura i legend Arturiańskich.
+843:  KMM - I tutaj już w tym obszarze legend arturiańskich będziesz wykorzystywał te konteksty, które są powiedzmy w programie.
+849:  KMM - Natomiast ten obszar z animki to jest ta nowa rzecz, którą ty dowozisz, czego nie zna egzaminator.
+854:  KMM - To jest superata dla niego i dla maturzysty.
+858:  KMM - Żeby było jeszcze śmieszniej, ludzie, którzy ripostują na to i mówią, no tak, ktoś mógłby sobie coś wymyślić.
+862:  KMM - Ja z kolei to kontruję jednym argumentem.
+864:  KMM - Jeżeli ktoś jest w stanie na maturze wymyślić utwór artystyczny i zanalizować go i przedstawić go tak, jakby on...
+870:  KMM - istniał faktycznie i zrobić to przekonująco, to znaczy, że ma wybitne umiejętności językowe i argumentacyjne i będzie świetnym obywatelem, bo do tego powinna być natura.
+879:  KMM - Masz sprawdzić, czy ten człowiek się nadaje do funkcjonowania w państwie, w tych obszarach, które uznajemy za krytyczne.
+885:  KMM - Liczenie, mówienie, argumentowanie, pisanie, tego typu rzeczy.
+889:  KMM - I ewentualnie
+890:  KMM - Ewentualnie z perspektywy państwa jakieś rzeczy wiedzowe, one zwykle są z obszarów historii i kultury po to, żeby wiedzieć, że człowiek, który jest Polakiem wie, co to w ogóle znaczy.
+900:  KMM - Bardzo ogólna sprawa.
+901:  KMM - Natomiast możemy zacząć dyskusję, czy rzeczywiście krytyczną umiejętnością dla każdego obywatela jest umiejętność chociażby wymienienia wszystkich elementów ameby czy pantofelka.
+911:  KMM - Ja już uważam, że nie.
+913:  KMM - Możemy się zastanawiać, czy krytyczna umiejętność jest zdolność do wymienienia wszystkich rzek w Europie.
+917:  KMM - Ja uważam już, że nie i tak dalej.
+918:  KMM - Są takie wiedzowe rezidua i pozostałości po poprzednim systemie, w którym mieliśmy jeden magazyn pamięciowy w postaci naszego mózgu.
+927:  KMM - No i ludzie polegali bardzo na tym magazynie pamięciowym, co też jest swoją drogą fatalne.
+933:  KMM - Bo jak za bardzo polegasz na swojej pamięci, jesteś nauczycielem, to możesz różnego rodzaju byki popełniać, bo ludzie się mylą i na tym to polega.
+940:  KMM - I ufanie swojej pamięci nie jest zbyt dobrą strategią.
+943:  KMM - Wiele razy mi się zdarzało łapać ludzi, którzy mieli świetną pamięć na błędach przez to, że po prostu miałem telefon i zrobiłem szybki fact checking.
+953:  PO - No tak, no możemy powiedzieć, jeśli chodzi o system rekrutacji na studia, jest on bardzo nieidealny.
+963:  PO - A na przykład też ostatnio wspominałeś o tym, że kanon lektur powinien zostać usunięty i powołałeś się na pewno, że tylko w krajach sowieckich takowy pozostał.
+977:  KMM - Po sowieckich, tak.
+978:  KMM - W krajach byłego ZSRR jest kanon, który jest narzucany przez państwo, bo to trzeba dopowiedzieć, i na Węgrzech również.
+985:  PO - Tak, i to wspominając, że to jest element, żeby teraz wyjść poprawnie politycznie, lekkiego takiego propagowania, czy tam można powiedzieć nakładania poglądów uczniom przez system, czy tam rząd.
+1001:  KMM - Wiesz, to tak, bo możesz bardzo łatwo wtedy manipulować tym, co nauczyciele mogą mówić, a co nie.
+1007:  KMM - Co wychodzi bardzo oddolnie i znowu rynkowo, bo z jednej strony masz oczywiście ten narzucony przez dany rząd program kulturowy,
+1018:  KMM - który jest częścią kanonu lektora, ale z drugiej strony masz firmy, które przygotowują opracowania.
+1023:  KMM - No i jaki jest cel firmy, która przygotowuje opracowania?
+1027:  KMM - No, żeby ludzie je kupili, a kiedy będziemy ludzie je kupować, będą zdawali egzaminy, które są przygotowywane przez państwo, a kiedy będą zdawali te egzaminy, będą pisali to, co państwo chce.
+1037:  KMM - Więc wiesz, czyli nie ma niby propagandy, urzędu propagandowego, natomiast jest coś innego, są mikrosystemy, które ze sobą współpracują i prowadzą
+1045:  KMM - do bardzo podobnego rezultatu, co nie jest pożądane z perspektywy człowieka.
+1049:  KMM - Ale to jest nawet, zostawmy ten temat polityczny.
+1051:  KMM - Problem jest zupełnie inny.
+1052:  KMM - To znaczy, to są stare rzeczy, które się do niczego nie przydają ludziom współcześnie.
+1056:  KMM - Jeżeli chcesz kogoś zainteresować kulturą, to musisz się zastanowić przede wszystkim, po pierwsze, jakie są jego zainteresowania, a po drugie, czy rzeczywiście rzecz, którą polecasz, jest wartościowa w różnych polach.
+1067:  KMM - To nie chodzi tylko o to, że o, Dostojewski jest wartościowy, ponieważ mamy lekcje z języka polskiego, a on jest Rosjaninem.
+1074:  KMM - To już jest dziwne, ale zostawmy ten aspekt.
+1078:  KMM - Jeżeli już myślimy o tej zbrodnikarze, no dobrze, czyli jest to kryminał psychologiczny.
+1084:  KMM - Aha, czy mamy jakieś współczesne kryminały psychologiczne, które mogłyby nas nauczyć czegoś więcej ponad robienie portretu psychologicznego?
+1091:  KMM - Jest zabójstwo Rogera Akrojda, Agaty Christie, które przy okazji cię uczy w jaki sposób napisać, teraz nie mogę zaspoilować, napisać opowiadanie tak, żeby kompletnie wywrócić zaufanie czytelnika do pojawiających się postaci do góry nogami.
+1105:  KMM - O, tak to mogę powiedzieć.
+1107:  KMM - I w jaki sposób skonstruować to opowiadanie umiejętnie.
+1109:  KMM - I teraz się uczysz czegoś nowego.
+1111:  KMM - Uczysz się w jaki sposób, w niestandardowy sposób, opowiadać historię nie po kolei i w taki sposób, żeby właśnie nadwyrężać to zaufanie do postaci.
+1118:  KMM - Czyli masz to samo, co u Dostajewskiego, plus coś więcej.
+1121:  KMM - A jeszcze moglibyśmy sobie dołożyć inny przykład i inne media i nagle się okazuje, że w zasadzie wszystko się sprowadza do tego, że gdzieś jakaś jednostka subiektywnym głosem swym decyduje, to jest ważne.
+1135:  KMM - Ale nie wyjaśnia ci dlaczego.
+1137:  KMM - I w zasadzie ludzie, którzy znają odbrodnie i karę...
+1140:  KMM - Mogło się im to czytać fajnie, mogło się im to czytać mniej fajnie, ale nie mają do powiedzenia absolutnie nic na ten temat.
+1146:  KMM - Nikt nie chciał i nie był w stanie powiedzieć, co faktycznie wniosło to do jego życia.
+1152:  KMM - I to jest problem z układaniem tego rodzaju list.
+1155:  KMM - Ja zawsze wychodzę z założenia następującego, że albo właśnie zastanawiasz się nad tym, co ludzi interesuje, albo faktycznie szukasz czegoś, co jest ultra i mega wartościowe.
+1163:  KMM - Taki przykład jest we Włoszech.
+1164:  KMM - Oni czytają po prostu boską komedię, bo uznają, że każdy Włoch musi to znać.
+1168:  KMM - Ale dlaczego?
+1169:  KMM - Nie dlatego, że to jest boska komedia i że jest o Panu Bogu, tylko dlatego, że tam jest tak dużo różnych rzeczy zrobionych z językiem włoskim, że chyba nikt nie był w stanie zrobić więcej.
+1180:  KMM - Tak przynajmniej doszli filolodzy włoscy do wniosku po latach badań.
+1184:  KMM - No więc to jest ważne.
+1185:  KMM - Czyli krótko mówiąc, założenie jest takie, że na tym tekście jesteś w stanie zrobić bardzo dużo i oni to na przykład czytają przez rok.
+1192:  KMM - Wyobraź sobie czytanie przez rok jednej rzeczy.
+1194:  KMM - Możesz z tego oczywiście bardzo dużo wtedy wyciągnąć, ale nie z tematów, bo nasze nauczanie polskiego jest tematyczne, tylko z zagadnień językowych, tak żeby ludzie się po prostu sprawnie posługiwali językiem.
+1206:  KMM - A to z kolei prowadzi mnie do ostatniego punktu, to znaczy tego, że jeżeli chcemy się sprawnie posługiwać językiem, to musimy wiedzieć jak ten język wygląda współcześnie.
+1213:  KMM - czyli konsumować dzieła kultury, które są tu i teraz powstają.
+1217:  KMM - Jeżeli ktoś absolutnie się upiera na tym, że ktoś musi znać obrzęd dziadów, to niech sobie odpali Wiedźmina Trzeciego i odpali quest z dziadami.
+1225:  KMM - Tam są nawet te same frazy, co u Mickiewicza.
+1226:  KMM - Różnica polega na tym, że to jest gra wideo.
+1229:  KMM - Czyli temat masz, język masz lekko współcześniejszy, atrakcyjnie to wszystko podane, jesteś w stanie zrobić dyskusję wokół tego.
+1237:  KMM - Był taki moment, jeden krótki moment, że nauczyciele faktycznie mieli taką swobodę,
+1242:  KMM - Ja w tym odcinku o liście lektur przywołuję Aleksandrę Korczak, która właśnie była dużą orędowniczką tego rozwiązania i myślę, że ono jest najlepsze.
+1249:  KMM - To znaczy masz zespół jakichś zagadnień czy kategorii, który jest ważny dla ludzi i na podstawie tego zespołu kategorii i zagadnień, wiesz, mądry nauczyciel w porozumieniu z uczniami, których pyta o to, czym się interesują, ustala sobie, dobra, to czym się będziemy zajmować.
+1265:  KMM - Wyobraź sobie zdanie, czym sobie będziemy się zajmować na początku dowolnej szkoły, na lekcji języka polskiego zadane.
+1272:  PO - Myślę, że 50% to by były erotyki.
+1278:  KMM - Ja mam jeszcze inny pogląd, to znaczy ja uważam, że większość ludzi by nawet nie umiała odpowiedzieć na to pytanie przez pierwsze sekundy, bo byłaby zaskoczona, że w ogóle ktoś ich pyta o to.
+1286:  KMM - Ale to mówię z perspektywy pierwszego roku studiów.
+1289:  KMM - Za dużo wolności.
+1291:  KMM - Wydaje mi się, że to jest ten problem.
+1293:  KMM - A jeżeli się byśmy upierali już na jakimś erotyku, to jesteśmy w stanie to zrobić.
+1297:  KMM - Ja byłbym w stanie na wizualnowelce dobrej przeanalizować przynajmniej parę zagadnień z zakresu prowadzenia narracji, które się mogłyby potem komuś przydać do czegoś.
+1306:  KMM - Zawsze się coś da zrobić.
+1307:  KMM - Zresztą jest taki esej Umberta Eco, jak rozpoznać film porno.
+1311:  KMM - I w eseju, jak rozpoznać film porno, Umberto Eco to uczynił rzeczony film porno takim asumptem do dyskusji na temat tego, czym jest przedakcja.
+1320:  KMM - która musi być rozbudowana, żeby rosło napięcie i w ten sposób, w łatwy sposób zapamiętujesz sobie termin z zakresu teorii narracji i teorii literatury, który się pojawia na lekcjach języka polskiego w kontekście nudnym i w związku z powyższym nikt go nie pamięta.
+1335:  PO - A powiedz mi, jak według Ciebie powinny, można powiedzieć, czyli uważasz, że tak naprawdę powinna być konkretna lista zagadnień, w której nauczyciele wybierają, nauczyciele razem z uśmiami wybierają, jakie lektury chcielibyś...
+1354:  PO - chcieliby omówić.
+1356:  KMM - A na przykład jakbyś miał... Wejdę Ci w słowo tylko na krótko.
+1359:  KMM - Lista zagadnień taka sama jak do egzaminów.
+1361:  KMM - Po prostu, wiesz, ze wszystkich przedmiotów może mieć tego rodzaju zagadnienie, tylko z polskiego.
+1365:  PO - A na przykład jeśli chodzi o język polski, to na przykład jakbyś miał przedstawić pięć takich najfajniejszych książek, czy tam, może powiedzieć, czy to by były nazwane lektury, które by były tak naprawdę przerabiane w szkole, które na więcej... Nie mogę tego zrobić, bo to będzie wtedy lista, nie?
+1386:  KMM - A ja jestem przeciwko liście.
+1387:  KMM - Zaraz ci powiem dlaczego.
+1388:  KMM - To znaczy, ja mógłbym ci powiedzieć chociażby... Ale to może gatunki.
+1392:  KMM - Jak...
+1393:  KMM - Jak do mojego przedmiotu, który ja prowadzę, albo do mojego kursu, jakie bym zalecił, na przykład gry do rozegrania.
+1400:  KMM - O, to tak, prowadzę kurs ze światotwórstwa i ja zwykle z ludźmi gram w Bioshocka Infinite.
+1407:  KMM - Dlaczego?
+1407:  KMM - Dlatego, że w Bioshoku Infinite przez pierwsze 30 minut rozgrywki masz użytych
+1414:  KMM - kilkanaście różnych mediów, od teatru ulicznego, przez filmniemy, a skończywszy na plakatach, użytych do tego, żeby komunikować historię tego świata.
+1425:  KMM - Czyli ja nie polecam Bioshocka Infinite dlatego, że jest wybitna gra zrobiona przez Ken'a Levina,
+1430:  KMM - Musicie to znać!
+1431:  KMM - Każdy powinien grać!
+1433:  KMM - Nie jesteś graczem, jak nie zdasz Bioshocka Infinite!
+1435:  KMM - Tylko mówię, że to jest konkretna liczba fajnych rozwiązań, które zostały zastosowane i dlatego warto to poznać.
+1442:  KMM - Jak będzie inna gra, która wprowadzi te rozwiązania lepiej, to zmienię swój przykład.
+1446:  KMM - Tak?
+1447:  KMM - Więc dla mnie tym jest lektura.
+1448:  KMM - Ja to traktuję strasznie funkcjonalnie, więc jeżeli by ktoś chciał... To jak ci podałem ten przykład z Wiedźminem, tak?
+1453:  KMM - Chcesz mieć te dziady, to weź Wiedźmina III.
+1455:  KMM - I...
+1457:  KMM - Na tej zasadzie można byłoby przejść przez większość tych ważnych, nazwijmy to, zagadnień, które się pojawiają w naszej historii kultury i zobaczyć, czy ktoś by mi powiedział tego ciekawiej.
+1467:  KMM - No na przykład dla mnie ciekawszym spojrzeniem na tematykę powstań czy narodowej tożsamości jest to, co robi Jacek Dukaj w Xawrasie Wyżryn i innych fikcjach narodowych, gdzie przedstawia rajd atomowy na Moskwę.
+1479:  KMM - Ciekawsza perspektywa zdecydowanie niż, wiesz, czytanie jakichś cierpiętniczych rzeczy dotyczących kolejnego powstania, które się nie udało.
+1487:  KMM - Free body problem.
+1514:  KMM - Na przykład.
+1514:  KMM - Czytałem ostatnio.
+1516:  KMM - No widzisz, albo natrafiasz na Cyberpunk Edgerunners, czy tego typu rzeczy.
+1521:  KMM - Nagle jest o czym rozmawiać i to też jest science fiction.
+1524:  KMM - Możesz powiedzieć, a tak by the way to był Lem jeszcze.
+1527:  PO - No i jeszcze w sumie jakby teoretycznie, jeśli chodzi o... Są też teoretycznie książki z tego świata.
+1534:  PO - Chyba gdzieś Ziemiański napisał.
+1538:  PO - Typowo wiesz...
+1540:  KMM - A chodzi ci o tę książkę Ziemiańskiego, a on się pod to podpiął, ale z tego co pamiętam, to nie podchodzi wprost pod uniwersum Serifaka 2077, natomiast zostało sprytnie wydane, tak żeby bardzo przypominało szatą graficzną tą uniwersum, więc to był sprytny zabieg ze strony Ziemiańskiego, co nie zmienia faktu, że widzisz, poruszyłeś też ważną kwestię, to znaczy kompletnie jest nieadresowany w szkołach na lekcjach języka polskiego ten problem powstawania dużych światów, w których mamy różnego rodzaju media, a to jest, wiesz, aż się prosi, żeby wykorzystać to do tego, żeby
+1570:  KMM - kogoś zainteresować animką, ale ta animka doprowadzi się do książki, którą będziesz chciał przeczytać, żeby poznać więcej o historii tego świata.
+1577:  KMM - I nagle sam zaczynasz czytać, nawet się nie orientujesz.
+1579:  PO - Ja myślę, że ogólnie dużo rzeczy brakuje.
+1582:  KMM - Tak, znaczy ja myślę, że to wynika z fundamentalnego niezrozumienia tego, czym jest kultura.
+1587:  KMM - Ludzie się bawią w wartościowanie, a wartościowanie należy do krytyków.
+1591:  KMM - Krytycy się bawią w wartościowanie, odłączasz sobie recenzję i masz wartościowanie.
+1594:  KMM - Tak.
+1595:  KMM - Naukowcy nie wartościują, nauczyciele nie powinni wartościować.
+1598:  KMM - My bardzo często nie nadajemy się do tego, żeby coś wartościować, bo żeby mieć pogląd, trzeba mieć przegląd.
+1603:  KMM - Więc jeżeli się nie obejrzało, nie wiem, N filmów science fiction, no to ciężko jest kompetentnie powiedzieć, że no, ten film jest zły.
+1609:  KMM - No ale dlaczego jest zły?
+1610:  KMM - No mi się nie podoba.
+1611:  KMM - A co ponadto?
+1612:  KMM - No i tu jest dupa, tak?
+1613:  KMM - Nagle się okazuje, że nie mamy argumentów, bo nie mamy przeglądu.
+1615:  KMM - I to jest bardzo proste.
+1617:  KMM - I budowanie, wiesz, sobie takiej erudycji w różnych obszarach jest kluczowe, a
+1621:  KMM - Szkoła nas cały czas uczy, że budowanie erudycji jest kluczowe w jednym obszarze, czyli w literaturze.
+1626:  KMM - No a ja zaczynam coraz bardziej odczuwać na przykład to, że jak teraz jest już to moje pokolenie, które się zajarało grami i bardzo, bardzo dużo grało przeglądowo, no już jest pokoleniem starym.
+1639:  KMM - i nagle rozmawiamy z ludźmi, którzy też grają, ale już mają zupełnie inne horyzonty, to nagle się okazuje, że klasyki dla nas absolutnie nie są klasykami dla młodych ludzi i to jest absolutnie niezdumiewające.
+1649:  KMM - Ale to też jest bardzo dobry dowód myślę na to, jak szybko powstają te kanony, jak szybko mamy taką tendencję do robienia tego rodzaju list.
+1658:  KMM - Więc ja jestem po stronie robienia list oddolnych albo mapowania sobie czegoś, jeżeli nas coś interesuje.
+1663:  KMM - Planuję zrobić taki eksperyment na kanale i mam nadzieję, że to będzie wtedy czytelniejsze, że będziemy sobie robili taką mapę różnych
+1669:  KMM - gatunków, które jarają różnych ludzi.
+1671:  KMM - Zobaczymy, jak to wyjdzie.
+1671:  PO - Mam nadzieję... Brzmi strasznie ciekawie, już się nie mogę doczekać.
+1678:  KMM - Zobaczymy.
+1678:  KMM - Mam nadzieję, że wyjdzie, bo wiesz, to chodzi po prostu o to, że ja nigdy nie chcę wychodzić na osobę, która narzuca ludziom, co powinni przeczytać.
+1685:  KMM - Mój gust jest też bardzo specyficzny.
+1687:  KMM - Opierałem się dwa i pół roku przed zagraniem w God of War'a, ponieważ nie znoszę grać czymkolwiek innym niż mag.
+1695:  KMM - Zawsze to była moja ulubiona klasa.
+1696:  KMM - Po czym, wiesz, grałem pod namową ludzi w God of War'a i widzę, że to jest jedna z najwybitniejszych gier, w jakich grałem w całym swoim życiu.
+1704:  KMM - I nagle, wiesz, odczuwam potrzebę rewizji czegoś, co mnie blokowało przed poznaniem jakiegoś obszaru kultury.
+1710:  KMM - Więc to jest kluczowe, żeby, wiesz, rozmawiać i budować sobie taką mapę właśnie, a nie listę.
+1716:  PO - Tak, może Pidgey God of War też jest moją jedną z ulubionych gier, więc mogę się podpiąć.
+1721:  PO - Choć ten drugi jakoś Ragnarok mnie praktycznie w ogóle nie wkręci.
+1725:  KMM - Nie spojruj, bo jeszcze nie gra, ale czekam aż wyjdzie na PC.
+1729:  PO - Teoretycznie ja grałem trochę, ale trochę się odbiłem od ściany.
+1736:  PO - Ja też nie mam czasu zbytnio w sumie na granie.
+1741:  KMM - Wiesz, rozumiem, chociaż mówię to z dużą przykrością, bo też pamiętam, że ta liczba zadań domowych, liczba zajęć na studiach i tak dalej była w tak zwanych moich czasach niższa.
+1754:  KMM - I ostatnio nawet rozmawiałem o tym z rodzicami i się złapałem na tym, że ja przychodziłem do domu, robiłem godzinę max zadania wszystkie.
+1763:  KMM - Co więcej, ja je robiłem wyłącznie w tygodniu i nigdy w weekend.
+1767:  KMM - I nigdy w weekend się też nie uczyłem.
+1770:  KMM - I jeszcze miałem czas na to, żeby minimum jakieś dwie godziny pograć, potem obejrzeć z rodzicami jakiś film, pogadać z nimi jeszcze, potem jeszcze czytałem książkę, więc tego mojego wolnego czasu było jakieś sześć godzin, a oprócz tego jeszcze zażywałem tych siedmiu godzin snu, więc...
+1790:  KMM - Jak ja słyszę ludzi, którzy przychodzą ze szkoły i hakują do 12 czy do 1, bo jest takie obciążenie, no to burzy się we mnie krew, bo widzę, że nie mają po prostu czasu wtedy, no tak, mówisz chociażby, na rozwijanie własnych zainteresowań, a szkoda.
+1806:  PO - Powiem ci szczerze, że ja się uczyłem mniej niż ty kiedyś, więc głównie po prostu się skupiam na różnego rodzaju sobie działaniach społecznych, różnego rodzaju po prostu...
+1821:  PO - do budowania sobie CV.
+1823:  KMM - No tak, ale to bardzo też słusznie i roztropnie.
+1825:  KMM - Ja ostatecznie wybrałem karierę, w której to się powiedzmy jakoś przydawało, chociaż też się waham przed tym, bo mam takie wrażenie, że nieuczciwy byłbym wobec wszystkich ludzi, którzy na przykład chcą wybrać tego rodzaju ścieżkę zawodową i myślą sobie, o to ja zrobię tak, Krzysztof, no to Krzysztof zrobił tak, że na poziomie drugiej klasy liceum był zwolniony ze szkoły.
+1846:  KMM - ponieważ miał umowę z dyrektorem, że dowiezie dwa tytuły olimpijskie i dowiózł.
+1851:  KMM - Ale to była umowa i ja zdawałem wszystkie przedmioty eksternistycznie, znaczy ja sobie w ogóle nie wyobrażam teraz, żeby była podobna sytuacja przy tych rygorach, które są obecnie.
+1860:  KMM - Więc tak, ja miałem w liceum jeden rok w zasadzie, no półtora powiedzmy, a reszta u mnie polegała na tym, jak na studiach byłem praktycznie, znaczy chodziłem do biblioteki, uczyłem się.
+1870:  KMM - I tyle.
+1871:  KMM - Sam.
+1872:  KMM - Więc wiesz, to nie jest taki typowy kazus, że sobie siedzisz, hakujesz, robisz zadanka, masz ze wszystkiego piąteczki, to już zostajesz naukowcem.
+1880:  KMM - Ale absolutnie nie.
+1882:  KMM - Podstawowa kompetencja w tej dyscyplinie, wiesz, ktoś chciał słuchać i chciał w tym kierunku iść, to jest samodzielna nauka i organizacja własnego czasu.
+1890:  KMM - Czyli wiesz, masz żelazną wolę.
+1894:  KMM - Tak jak ja też, mam trzy monitory na około siebie, tu książki, tam telewizor, na którym sobie mogę oglądać tyle, ile chcę.
+1902:  KMM - Mogę sobie grać, teraz mógłbym odpalić Steam, grać 7 godzin, jeszcze ludzie by to oglądali.
+1907:  KMM - Ale ja stwierdzam nie, na przykład robimy podcast, albo stwierdzam nie, za moment muszę zrobić konkretną rzecz, to znaczy to będzie mój moment pisania tekstu.
+1915:  KMM - Wiesz, przy wszystkich możliwych dystraktorach, to jest mega trudne do zrobienia, zwłaszcza dzisiaj, jak mamy, wiesz, wszystkie aplikacje nas otaczające.
+1923:  KMM - są zaprojektowane po to, żeby przyciągać naszą uwagę.
+1926:  KMM - My się totalnie w nauce nie zastanawiamy nad tym, jako nauczyciele, co one takiego robią, że naszą uwagę przyciągają.
+1934:  KMM - Bo to są bardzo konkretne i bardzo łatwe do reprodukcji techniki i strategie.
+1942:  PO - Jeszcze właśnie propos języka polskiego.
+1944:  PO - Ja uważam, że tort się... Dla mnie to jest nie do rzeczy, że jest tak mały nacisk na...
+1952:  PO - na gatunki, które strasznie, jakby można powiedzieć, podwyższają kreatywność, typu na przykład science fiction czy fantasy dosłownie.
+1961:  PO - Tak naprawdę dla mnie jest niedoczesne to, że na przykład nauczyciele mówią, że nie lubią science fiction, bo jest to jakby teoretycznie jakieś bajki, a tak naprawdę jakby taki kord science fiction jest to, że teoretycznie on pokazuje rozwój cywilizacji, opierając się w jakiś sposób na nauce, więc...
+1981:  PO - czy tam jakieś fantazy, które po prostu budzi kreatywność.
+1985:  PO - Nie wiem, chyba jakaś katedra jest czy coś,
+1990:  KMM - A katedra jest jednym z takich słabszych opowiadań Dukaja, ale z kolei animacja była dominowana do oskara, więc dlatego katedra jest na liście.
+1999:  KMM - Ona nie jest z jakichkolwiek innych powodów.
+2001:  KMM - To jest strasznie smutne, co mówisz, bo nauczyciel w ogóle nie ma takiej przestrzeni, żeby powiedzieć, wiesz, eks katedra, bo on jednak zajmuje tę pozycję autorytetu, czy tego chcemy, czy nie, że czegoś nie lubi.
+2015:  KMM - Bo...
+2017:  KMM - Wiesz, ja słyszałem coś takiego na studiach polonistycznych, gdzie kształtowano nauczycieli polonistów.
+2022:  KMM - Było raz trzy setki, wiesz, i profesor ci mówi przez cały rok praktycznie o wszystkich możliwych typach literatury, wyjąwszy właśnie te wymienione przez ciebie.
+2031:  KMM - No więc, wiesz, w mózgach takich nauczycieli przyszłych tworzy się bardzo prosta
+2036:  KMM - zależność.
+2037:  KMM - Aha, czyli jeśli na studiach mi tego nie przywoływali, a na studiach mówi się o rzeczach ważnych, to jest nieważne.
+2043:  KMM - I on nawet sobie może nie zdawać sprawy, że coś takiego zostało wszczepione, wiesz, do głowy, jak w incepcji Nolana.
+2049:  KMM - I...
+2050:  KMM - I potem mamy problem, bo nagle ludzie uznają to za fakt objawiony i ten fakt transmitują dalej i mówią, że na przykład czegoś nie lubię.
+2057:  KMM - Ja chyba nie przypominam sobie, żebym kiedykolwiek na zajęciach powiedział, że na przykład nie lubię jakiegoś gatunku literatury.
+2064:  KMM - Nie lubię horroru, ale mówię studentom następująco.
+2067:  KMM - Słuchajcie, jedne zajęcia powinny być o horrorze i literaturze grozy.
+2071:  KMM - Ja się na tym kompletnie nie znam.
+2073:  KMM - Przeczytajcie, co na ten temat napisała profesor Ksenia Olkusz, doktor Krzysztof Grudnik.
+2078:  KMM - Do ich tekstów idźcie, znajdziecie tam odpowiedzi.
+2081:  KMM - Albo przeczytajcie sobie monografię Miguela Girego, albo jeszcze jakąś książkę pod redakcją Gajewski na ten temat i będzie pięknie.
+2091:  KMM - Mówię inaczej, ale mówię niby to samo, prawda?
+2094:  KMM - To znaczy, no nie możesz zająć pozycji wartościującej w takiej sytuacji, gdy chcesz ludziom dać narzędzia do omawiania literatury i kultury.
+2101:  KMM - A jeżeli chodzi o fantasy i science fiction, jest jeszcze jedna zaleta.
+2104:  KMM - Zauważ, że
+2106:  KMM - No Polska akurat nie ma tego problemu lub zalety, w zależności od tego jak to interpretujemy, że jest multietniczna.
+2113:  KMM - A teraz wyobraź sobie, że masz więcej klas, w których na przykład powiedzmy jest Ukrainiec, Czech, Słowak, Węgier i Polak.
+2121:  KMM - I teraz oni wszyscy mają rozumiem czytać Pana Tadeusza.
+2123:  KMM - Zresztą myśmy mieli te sytuacje z migracją z Ukrainy, gdzie ludziom kazali czytaj Pana Tadeusza.
+2127:  KMM - To jest kompletnie nie ma żadnego sensu.
+2130:  KMM - A czytasz sobie Tolkiena i...
+2132:  KMM - Dla wszystkich to jest to samo pole odniesienia, nie?
+2134:  PO - Bo pierwszych ktoś w ogóle widzą, czy to pan Zadeusza, więc... Nie no, czytają opracowania, daj spokój.
+2142:  KMM - Ja się absolutnie nie dziwię zresztą, bo... Wiesz no, dla mnie, po filologii polskiej, to buduje dużą barierę językową.
+2152:  KMM - Więc ja nie wiem, znaczy trzeba niesamowitej bezbrzeżnej naiwności, żeby uważać, że ludzie, którzy nie są trenowanymi historykami literatury są w stanie to czytać bez poczucia bariery językowej i kulturowej jeszcze, bo nad barierą językową, gdzie jest to napisane jednak mową wiązaną, ciężej się to czyta, no to jeszcze masz barierę kulturową, no bo...
+2171:  KMM - Tego świata już nie ma, on jest historyczny, jest może przez to ciekawy, ale jeżeli masz oprócz tego barierę językową, to strasznie ciężko jest dać się wessać, czyli no właśnie doznać tego zanurzenia, które mamy tak często jak czytamy, czy analizujemy, czy sobie gadamy o kulturze współczesnej.
+2188:  PO - A właśnie jeszcze, Krzysztof, bo wiem, że ty jakby wykładasz film Groznawstwo, ale czy tylko Groznawstwo?
+2197:  KMM - Krzysztof, nie.
+2199:  KMM - Ja generalnie... W ogóle Groznawstwo to jest zabawna rzecz, ponieważ my cały czas walczymy jako ludzie analizujący gry, bo też trzeba podkreślić, że Groznawstwo nie polega na tym, że ty, nie wiem, wiesz w jaki sposób gra jest zakodowana, to jest troszeczkę co innego.
+2214:  KMM - Raczej tutaj chodzi o taką przekrojową wiedzę na temat tego,
+2218:  KMM - Jakie są typy gier, jakie są gatunki, w jaki sposób projektuje się tam narracja.
+2222:  KMM - Więc to jest gałąź, która może być traktowana jako część humanistyki.
+2226:  KMM - Ale wiesz, jest też część ludzi, którzy zajmują się projektowaniem gier właśnie od strony technicznej.
+2230:  KMM - Też są groznawcy.
+2232:  KMM - Ja należę do tej pierwszej grupy, więc mam wygodniej.
+2235:  KMM - Ale równocześnie, jeżeli miałbym jakoś się klasyfikować, to strasznie tego nie lubię, ale zwykle właśnie mówię, że to jest coś na pograniczu groznawstwa, badań nad fantastyką, światotwórstwem.
+2246:  KMM - Zresztą ja tym światotwórstwem się zająłem jako pierwszy w Polsce w sumie na taką skalę i to jest mi najbliższe w sumie.
+2253:  KMM - I wszystkie moje przedmioty czy kursy, które prowadzę na AG, ale także na Uniwersytecie Śląskim, od tego roku mam jeden kurs.
+2259:  KMM - Czasem mam Vartes Liberales na Uniwersytecie Warszawskim.
+2261:  KMM - To one się właśnie jakoś wiążą z tym światotwórstwem, więc w dużym skrócie sztuku tworzenia fikcyjnych światów.
+2266:  KMM - I wiesz, w różnych mediach, właśnie dlatego mnie ta perspektywa...
+2271:  KMM - nie tylko literaturoznawcza czy groznawcza interesuje, że dla mnie ciekawe są światy projektowane w serialu, w mandze, w anime, w grze, w literaturze, ale najbardziej się faktycznie znam na tym, w jaki sposób projektowane te światy są w literaturze i w grach.
+2285:  KMM - To tak jak zawsze, długa odpowiedź na pozornie krótkie i konkretne pytanie.
+2290:  KMM - Ja wiem.
+2291:  PO - Rozumiem.
+2294:  PO - Chciałem się jeszcze zapytać odnośnie tego twojego zainteresowania fantastyką.
+2300:  PO - Wiem, że fantastyka, pewnie science fiction też wchodzi w twój krąg lubionych dziedzin literatury, czy nie?
+2312:  KMM - Wiesz co, tak, od dłuższego czasu tak, to też zwiąże się z tym, że jak ja po dekadzie, to naprawdę było 10 lat, na Uniwersytecie Jagiellońskim, zostałem tak przymordowany klasyką literatury, którą poznałem w całości praktycznie w odniesieniu do literatury i polskiej i zachodniej, głównie zachodnioeuropejskiej, taka prawda, bo tam z czytaniem klasyki wschodniej, ohoho, tu jest już ciężej.
+2338:  KMM - Nawet nie wiem, czy Haruki Burakami był w ogóle z literatury daleko w stronie, jeżeli można go tak klasyfikować.
+2344:  KMM - W każdym razie byłem już tak tym znudzony, że byłem kompletnie wypalony i coś tak po roku, po dwóch kompletnego odpoczynku od literatury, po ukończeniu studiów doktoranckich,
+2355:  KMM - stwierdziłem, że mam jakąś pustkę w sobie i muszę ją czymś wypełnić.
+2361:  KMM - Ja ją wcześniej wypełniałem i serialami, i grami, ale ja zawsze potrzebuję różnorodności w życiu, więc wróciłem wtedy do literatury i teraz czytam głównie fantastykę.
+2370:  KMM - Ale wiesz, mając w świadomości to, że poznałem wszystkie możliwe alternatywy i żadna mnie tak nigdy nie zassała, a dla mnie to jest mega ważne, żeby jakieś dzieło sztuki dało mi
+2380:  KMM - oddech od rzeczywistości i porwało mnie do innego świata, bo rzeczywistość, która mnie otacza, jest wystarczająco wypełniona różnymi irytującymi mnie problemami, żebym, wiesz, myślał sobie, a, to dla odpoczynku poczytam sobie jeszcze o losie ludzi bezdomnych w Botswanie.
+2395:  KMM - Tak, albo Pana Zadeusza.
+2396:  KMM - Albo Pana Tadeusza.
+2398:  KMM - No nie, tak?
+2400:  KMM - Mnie tego szuka.
+2401:  KMM - Więc dlatego fantasy i science fiction do mnie wróciło, chociaż powiem ci, że zawsze fantasy była bliżej w serduszku.
+2406:  KMM - Być może z uwagi też na moje zainteresowanie historią, które zawsze było wyższe niż zainteresowanie naukami technicznymi i ścisłymi, co jest bardzo logiczne, biorąc pod uwagę to, że wylądowałem na AGH.
+2416:  KMM - To jest bardzo zabawne.
+2417:  KMM - Ale z drugiej strony też jest ciekawe, że w środowisku technicznym zawsze fantasy i science fiction była w tak zwanych moich czasów znowu bardziej popularna niż gdziekolwiek indziej, bo na kierunkach humanistycznych czytano inne rzeczy.
+2433:  PO - A teoretycznie, czy masz jakieś ulubione serie?
+2438:  PO - Czy to z fantasy, czy science fiction?
+2441:  KMM - Wiem, że nie lubisz lis, ale czy na przykład... Tak, ulubione ci jestem w stanie wymienić.
+2446:  KMM - Znowu będą w różnych kategoriach.
+2448:  KMM - Ulubione w kategorii wracałem najczęściej podter, bo to była taka literatura bardzo...
+2457:  KMM - pokoleniowa, w tym sensie, że wszyscy z mojego pokolenia po prostu czytali to wtedy, kiedy to wychodziło, więc trochę się z tym dorastało, więc to jest kategoria nostalgia.
+2466:  KMM - Bardzo mocno.
+2467:  KMM - I druga rzecz, która jest dla mnie nieśmiertelna absolutnie, to jest Sin Marillion Tolkiena, do którego wracam trochę tak, niektórzy wracają sobie do mitologii, jak ja lubię sobie podczytywać, to jest moja mitologia, do której ja wracałem i nigdy tego nie czytałem, tak, wiesz, od początku do końca, tylko zawsze sobie wybierałem coś, najczęściej Upadek Gondolinu.
+2484:  KMM - Z fantazy współczesnej Brandon Sanderson, cokolwiek wymienisz, to ja absolutnie się na to rzucam, najbardziej Archiwum Burzowego Światła, ale Brandon Sanderson już pisze w takim nowym trybie, bo to nie jest tryb sag i serii, tylko to jest tryb światotwórczy mocno, czyli masz świat Kosmir i on będzie ten świat Kosmir uzupełniał kontentem fabularnym, trochę tak jak się uzupełnia Genshin'a kontentem fabularnym w kolejnych patchach.
+2509:  KMM - No i to jest nowy sposób opowiadania historii, dla mnie mega atrakcyjny.
+2512:  KMM - A z klasyki fantasy, chyba Todd Williams, Marchia Cienia, to jest z kolei w kategorii najbardziej mnie zassało, bo Todd Williams i Marchia Cienia, to jest moja sztandarowa anegdota, to jest książka, która mnie wessa dłużej niż jakakolwiek gra wideo, a ja mam rekordowe godziny posiadu przy grach wideo.
+2531:  KMM - Mój rekord w growy, jeżeli chodzi o nieprzerwane granie, to jest około 12 czy 13 godzin.
+2536:  KMM - Natomiast jeżeli chodzi o Marchię Cienia, to tam dobiłem do 19 godzin ciurkiem.
+2542:  KMM - Potem sobie zjadłem szybkie jedzenie i czytałem dalej.
+2545:  KMM - I to dalej to było następne kilka, kilkanaście godzin.
+2548:  KMM - Było nieprawdopodobne, absolutnie nie byłem w stanie tego wyjaśnić.
+2551:  KMM - Więc potem byłem bardzo głodny po tej nasiadówie i bardzo zmęczony, ale niesamowicie usatysfakcjonowany.
+2557:  KMM - Nie wiem, dlaczego akurat to jest ta powieść.
+2558:  KMM - Wiele razy już do tego wracałem myślami, zastanawiając się, co akurat na to wpłynęło i nie mam na to żadnej racjonalnej odpowiedzi, więc to jest moja kategoria głębokiego zanurzenia.
+2568:  KMM - A jeżeli miałbym powiedzieć o czymś, co byłoby taką guilty pleasure też w kategorii, no to będzie to Trudy Canavan i jej trylogia Czarnego Maga, bo jest tam Czarny Mag, który jest fantastycznie przedstawiony i w zasadzie tutaj nie miałbym żadnych innych argumentów ponad to, że przyjemnie mi się to czytało także z tego i względu, że było to podejście do magii, którego nie spotkałem nigdzie indziej, więc też w zależności od tego, czego poszukujemy, to też inna saga czy seria fantasy mi się przypomina.
+2592:  KMM - Jeszcze mam taką jedną, którą czytałem chyba jako, o jeszcze
+2596:  KMM - Dzieciak u babci była saga o czarnoksiężniku Margit Sandemu.
+2599:  KMM - Absolutnie niewartościowa literatura, ale właśnie nie o to chodzi.
+2604:  KMM - Bardzo interesująco przedstawiona historia maga, który praktycznie śledzimy jego losy od samego początku do samego końca i coś miała w sobie takiego, że ze mną długo została w pamięci, mimo że z mojej pamięci dużo rzeczy szybko wypada.
+2619:  PO - Jak byś mógł trochę opowiedzieć o tym marchicie, jak to się dobrze odmienia?
+2626:  KMM - Ja ci nie powiem dużo na temat fabuły z bardzo prostego powodu, to znaczy ja je wyrzucam z pamięci.
+2631:  KMM - To też było zawsze ciekawe dla mnie, że jak ja czytałem
+2636:  KMM - To ja czytałem dla obrazów, więc rekonstrukcja wydarzeń na przykład albo opowiedzenia o czymś było dla mnie bardzo trudne.
+2643:  KMM - Pamiętam tylko tyle, że w Marchi Cienia były dwa światy, dwie marchie właśnie.
+2647:  KMM - Jedna była powiedzmy w jakimś domenie słońca, a druga w domenie cieni.
+2653:  KMM - Rzecz toczyła się na przecięciu tych dwóch światów, czy tych dwóch krain.
+2657:  KMM - Troszeczkę podobnie jak w Abhorsenie Gartaniksa.
+2661:  KMM - Tyle jestem ci w stanie powiedzieć.
+2663:  KMM - To też był mój problem zawsze, jak ktokolwiek z polonistów chciał sprawdzić, czy ja coś przeczytałem, bo zawsze wychodziło, że ja tego nie przeczytałem, a potem, wiesz, jak rozmawiasz z ludźmi, którzy też to przeczytali, mają takie, aaa, było tam coś takiego, nie?
+2677:  KMM - I czasem się dogadasz z człowiekiem, który coś zna przez podrzucenie mu jednego obrazu.
+2681:  KMM - Ja nigdy nie zapomnę, jak
+2683:  KMM - zapomniałem, z tytułu jednej animki, którą stale zapominam, po prostu jest bardzo podobna do Code Geass, ale tak naprawdę to nie.
+2691:  KMM - Zawsze sobie usiłuję przypomnieć tytuł i potem albo sobie przypominam, albo nie.
+2695:  KMM - I rzuciłem raz na streamie po prostu jeden obraz, to znaczy ujęcie z lotu ptaka pokazujące kryształowe miasto i w ogóle był tam jakiś opresyjny aparat policyjny, ludzie momentalnie mi rzucili tytuł.
+2707:  KMM - Ja wiedziałem, że oni to obejrzeli, właśnie dlatego, że przywołali sobie to jeden obraz z pamięci.
+2714:  KMM - Nie trzeba wtedy sprawdzać, wiesz, tego, czy rzeczywiście ktoś coś pamięta.
+2717:  KMM - No i dlatego cię muszę rozczarować, że rzeczywiście, jeżeli chodzi o rozmowy o historiach, no to ja jestem z tego kiepski.
+2724:  PO - Ale ciekawa koncepcja.
+2727:  KMM - Koncepcja, która mi się wiele razy sprawdzała, jak ja chciałem rzeczywiście zweryfikować, czy ktoś coś znał, a nie czytał.
+2732:  KMM - Streszczenie z tego względu, że jak coś znasz, to zwykle przypominają ci się randomowe rzeczy kompletnie.
+2738:  KMM - I rzucasz je i nagle nie wiesz, dlaczego.
+2742:  PO - Tak samo jak na testach.
+2747:  PO - Zadają ci jedno pytanie, a masz tak naprawdę odpowiedź na pięć pytań z tego zakresu, ale musisz odpowiedzieć na to konkretno.
+2755:  KMM - Ja zawsze polecam ludziom, którzy myślą, że testy są dobre, następujące ćwiczenie, to znaczy zastanów się nad czymś, co dobrze znasz, tylko wiesz, żebyśmy utrudnili to trochę, że niech nie będzie to działanie matematyczne, bo wtedy najprościej jest rzeczywiście wybrać sobie dwa różne wyniki, chociaż wymyślić wynik fałszywy wcale nie jest tak prosto, tak nawiasem mówiąc, bo trzeba też wymyślić wynik, do którego ktoś mógłby dotrzeć, jeżeli popełni bardzo specyficzny błąd.
+2782:  KMM - Więc ułożenie takiego pytania testowego odkrywa przed człowiekiem bardzo ciekawą rzecz.
+2788:  KMM - To znaczy, że jak układasz to pytanie, jesteś totalnie nieobiektywny.
+2792:  KMM - Patrzysz subiektywnie, zastanawiasz się nad tym, co ty byś zrobił w takich okolicznościach i wymyślasz rzeczy, które z twojej perspektywy są absurdalne, ale nie wpadasz na lepsze pomysły.
+2802:  KMM - Dobre pytanie, jeżeli rzeczywiście byśmy chcieli
+2805:  KMM - uprzeć się i zrobić dobre pytania testowe, to musiałoby sięść nad tym pytaniem kilkadziesiąt osób.
+2811:  KMM - Musielibyśmy sprawdzić, wiesz, zrobić próbę badawczą i sprawdzić, ile by zrobiło jakich błędów, kto by wpadł na jakie rozwiązania i być może wtedy byśmy mieli dużo wariantów, a i tak Ci gwarantuję, że znalazłaby się osoba N plus jeden, która miałaby swój własny.
+2824:  KMM - Więc zrobienie sobie takiego przygotowawczego ćwiczenia w postaci ułożę sobie sam pytania testowe dla siebie może być fajnym ćwiczeniem, jeżeli chcemy zobaczyć, jak to działa od wewnątrz.
+2835:  KMM - Nieraz zmuszono do ułożenia testu.
+2838:  KMM - To był mój pierwszy egzamin, który musiałem przeprowadzić i to było wtedy, kiedy ja byłem jeszcze kontrolowany przez moich supervisorów na uczelni i przygotowałem ten test, po czym go oblałem.
+2850:  KMM - jako prowadzący kurs, bo stwierdziłem, że nie będę stawał studentem czegoś, czego ja sam nie znam.
+2855:  KMM - W związku z powyższym rozwiązałem ten test i okazało się, że rozwiązałem go błędnie.
+2860:  KMM - Jestem ewidentnie uodporniony na testy organicznie i nie jestem w stanie ani ich rozwiązywać, ani ich tworzyć.
+2866:  KMM - Nawet jak usiłowałem się przygotować do prawa jazdy, którego finalnie nigdy nie zrobiłem i w sumie nie żałuję, ponieważ moja uwaga na
+2873:  KMM - na ulicy jest kwestionowana, nazwijmy to bardzo delikatnie.
+2877:  KMM - To znaczy, jak zdawałem egzamin parę razy, to z egzaminatorem miałem rozmowy w rodzaju, tu był jakiś tir?
+2883:  KMM - O, nie zauważyłem, więc dobrze, że nie mam prawa jazdy, ale ja regularnie oblewałem testy właśnie, które ludzie mówili zawsze, że są najłatwiejsze.
+2891:  KMM - Straszne.
+2893:  PO - Każdy kocha testy, no wiadomo.
+2895:  PO - Też wiem, że ostatnio robiłeś, stawiałeś odcinek o testach na czas, że to jest abstrakcyjne, z tego co wiem, to chyba coś nowego właśnie.
+2908:  KMM - Wiesz co, moja teza jest dość prosta.
+2910:  KMM - To znaczy, jeżeli robisz test na czas, to w dużej mierze jesteś w stanie sprawdzić faktycznie, czy ludzie są w stanie na czas szybko udzielić ci odpowiedzi pod presją czasu, pod presją okoliczności.
+2925:  KMM - W nauce się coś nazywa błędem pomiaru.
+2928:  KMM - który chyba najlepiej wytłumaczyć tym, że jeżeli masz taki akcelerator cząstek jak w CERN-ie, znaczy on nie jest tylko w CERN-ie, wiadomo, on jest pod bardzo dużą powierzchnią ziemi, natomiast masz go zakopanego i odizolowanego po to, żeby można było faktycznie badać bieg cząstek elementarnych i to w jaki sposób się one zachowują, a nie żeby ci jakieś fale radiowe czy cokolwiek innego, nie znam się na tym, ale żeby czynniki zakłócające tam się nie wwikłały w to.
+2955:  KMM - To jest dokładnie to samo.
+2956:  KMM - Jak masz próbkę, to starasz się, żeby ta próbka była czysta, a nie żeby na nią nasmarkać.
+2961:  KMM - Robienie testu na czas to jest ekwiwalent nasmarkania na próbkę w laboratorium i następnie spojrzenia pod mikroskopem i znalezienia własnych bakterii w niej.
+2970:  KMM - To jest nielogiczne kompletnie.
+2972:  KMM - Więc dzisiaj mamy rozwiązania technologiczne, które pozwalają Ci zrobić test, który będzie sobie trwał tyle ile chcesz.
+2979:  KMM - Masz możliwość mierzenia tego, masz możliwość robienia prób kontrolnych bez żadnego problemu.
+2984:  KMM - Prosta sprawa, robisz test elektroniczny, do którego masz jedno podejście.
+2988:  KMM - Rozwiązany problem.
+2989:  KMM - Ludzie będą rozwiązywać go tak długo, aż będą w stanie, natomiast nie możesz zamknąć tego podejścia, bo już się wtedy nie wrócisz i nie sprawdzisz niczego.
+2997:  KMM - I wtedy biedna osoba zrobi to w 5 godzin, druga robi w 45 minut, nieważne.
+3002:  KMM - A jeżeli odpowiednio układasz pytania, to możesz mieć dwa warianty wtedy.
+3007:  KMM - Albo ludzie do tego podejdą uczciwie, ale są też ludzie, którzy nie będą chcieli do tego podejść uczciwie.
+3011:  KMM - Super, wiesz co wtedy zrobią?
+3013:  KMM - Zaczną ze sobą współpracować.
+3015:  KMM - I dobrze, bo się wtedy czegoś nauczą.
+3017:  KMM - A to, że już jedna osoba na przykład da komuś swoje rozwiązania, to jest jej sprawa.
+3024:  KMM - I widzisz, musimy być gotowi, krótko mówiąc, i nauczyciele na to totalnie nie są gotowi, na zrozumienie, że tak, w takich przypadkach, jeżeli tak robisz egzamin, to masz 30% przypadków, że twoja metoda dydaktyczna będzie failować, bo ludzie nie będą uczciwi.
+3039:  KMM - I nie, oni nie chcą tego zaakceptować, w związku z powyższym będą wprowadzać, wiesz, kolejne mechanizmy kontroli, czyli nie dość, że masz czas, to jeszcze masz człowieka, który się przechadza po sali, jeszcze będziesz mieć kamerę za moment.
+3051:  KMM - I tego jest i więcej, i więcej, i więcej.
+3053:  KMM - Potem anonimizacja, potem zapieczętowywanie kopert.
+3056:  KMM - To są kosztowne i nierentowne rozwiązania problemu, który jest na początku sztuczny.
+3061:  KMM - Bo jak wrócilibyśmy do początku naszej rozmowy, dajesz pytanie otwarte, wtedy każdy rozwiązuje to po swojemu.
+3068:  KMM - Ale jeżeli chcesz sobie ułatwić życie i robisz test, no to trzeba mieć świadomość tego, że w życiu...
+3073:  KMM - Nic, co jest piękne i co jest wartościowe, nie jest łatwe.
+3077:  KMM - Więc jeżeli masz łatwe metody dydaktyczne, to nie będziesz osiągać najlepszych rezultatów.
+3081:  KMM - No nie ma szans najmniejszych.
+3082:  KMM - Jeżeli natomiast zdecydujesz się na zrobienie tego w sposób trudny,
+3085:  KMM - to może być tak, że to cię wynagrodzi.
+3087:  KMM - Ja na przykład jak wysyłam oceny opisowe ludziom, mimo że wpisuję oceny w systemie tak jak każdy, bo muszę, cyfrowe, no to ja sobie ten system hakuję w ten sposób, że piszę ludziom DM-a z moją opinią niezależnie.
+3102:  KMM - I pomyślałem sobie, no i co, że to zrobię?
+3105:  KMM - Co mnie może spotkać złego?
+3107:  KMM - No w ostateczności dostaniesz na przykład odpowiedź od człowieka, który albo ci powie, że się mylisz i zacznie polemizować, wtedy masz sygnał, okej,
+3115:  KMM - Ten człowiek myśli, oceniłem go źle, trzeba popytać dalej.
+3119:  KMM - Albo dostaniesz odpowiedź, że zajęcia były takie, a nie inne, czyli dostaniesz jeszcze informacje dotyczące tego, czy człowiek jest zadowolony, czy nie jest zadowolony.
+3127:  KMM - Either way you win.
+3128:  KMM - Nie ma wad tego rozwiązania.
+3130:  KMM - Natomiast co do wady rozwiązania wyciągania średniej, to nie muszę przekonywać, bo po pierwsze nie ma czegoś takiego w ustawie, a po drugie, jeżeli sobie weźmiemy pod uwagę okoliczności, że podchodzisz do egzaminu, boli cię głowa i dostajesz 3, podchodzisz do egzaminu na następny dzień, nie boli cię głowa, dostajesz 5, ale średnia jest 4,
+3149:  KMM - No chyba nie muszę mówić, gdzie popełniliśmy błąd, tak?
+3152:  KMM - No czy ten błąd był w tym, że był ten właśnie zmącony wynik okolicznością zewnętrzną, której egzaminator ani nie mógł przewidzieć, ani nie miał na nią wpływu.
+3160:  PO - Jakby teoretycznie test to definicja testu to jest po prostu ocenienie pisemne, ocenienie twojej aktualnej wiedzy, a na przykład twoja aktualna wiedza wtedy jest na pięć, a nie twoja aktualna wiedza to nie jest średnia z piątki i trzech, tylko to jest
+3179:  KMM - No tak.
+3181:  KMM - Już pomijam fakt, że żebyś wiedział, co to znaczy, że coś umiesz na pięć, to prawda jest taka, że nauczyciel musi po swojej stronie zrobić sobie tabelę, gdzie ma obok każdej oceny, co faktycznie na nią jest.
+3194:  KMM - Ale ty tej tabeli nie masz, nie widzisz jej.
+3196:  KMM - W związku z powyższym my tylko dostajemy informację, że ja coś umiem na piątkę albo ja coś umiem na cztery plus.
+3202:  KMM - Ja nigdy nie wiedziałem, jaka jest różnica między umieniem coś na cztery plus, a pięć minus.
+3206:  KMM - Nigdy nie poznałem tej różnicy, ale my dostajemy to i nie dostajemy wiele więcej, więc musisz marnować czas i robić lekcje w rodzaju poprawa sprawdzianów albo poprawa zadań domowych.
+3218:  KMM - dokładnie, żeby wiadomo było, o co chodziło, czyli nie dajesz tej oceny opisowej, nie dajesz tego feedbacku, a następnie tworzysz sobie kolejny sztuczny problem w postaci takiej, że nie możesz realizować ukochanej podstawy programowej, bo musisz zrobić lekcję z poprawy sprawdzianów, a potem jeżeli się okaże, że wszyscy na przykład dostaną jeden, ponieważ zawiodłeś albo zawiodłeś jako nauczyciel, to robisz następny test i następną poprawę i to wiesz, i tak można w tej matni cały czas być, a i jeszcze do tego wszystkiego, wiesz, nauczycielom schodzi cholernie dużo czasu na poprawianie tego.
+3248:  PO - A w ogóle ile im schodzi na sprawdzanie tego?
+3251:  PO - Mnie to zawsze ciekawi, jak to jest możliwe, że ci nauczyciele chcą być tymi nauczycielami i że za takie pieniądze poświęcają tyle czasu na sprawdzanie tego?
+3261:  KMM - Ja ci powiem z mną, z mojej perspektywy.
+3265:  KMM - Kiedyś miałem do sprawdzenia taki egzamin.
+3267:  KMM - On był dla, czekaj, ile to było?
+3269:  KMM - To było 80 osób.
+3273:  KMM - Mnie to zajęło jakieś kilka dni, co najmniej.
+3276:  KMM - I to, wiesz, takiej roboty, że było sześć godzin, nie wiem, dziennie hakowania nad tym.
+3281:  KMM - To było straszne absolutnie.
+3283:  KMM - I najgorsze było w tym wszystkim to, że ja musiałem cały czas jeszcze na koniec, bo to był ten etap, kiedy mnie właśnie zmuszano do tego na uczelni, na UJ-cie, rachować te procenty, tak?
+3293:  KMM - Żeby była sprawiedliwa ocena.
+3294:  KMM - To jest jakiś
+3295:  KMM - Koszmar absolutny.
+3295:  KMM - I w człowieku wyrabia się wtedy takie przekonanie, że ty kogoś ocenisz niesprawiedliwie dlatego, że wpisałeś złą cyfrę albo gdzieś się pomyliłeś w obliczeniach.
+3305:  KMM - To w ogóle nie o to chodzi.
+3306:  KMM - Ocena sprawiedliwa polega na tym, że masz dać człowiekowi feedback.
+3310:  KMM - Okej, z tego co ja umiem, ty poznałeś X, nie wiesz jeszcze jak zrobić Y. Tu tak robisz Y. To jest sprawiedliwa dla mnie ocena, bo ona jest rzetelna.
+3321:  KMM - Ocena sprawiedliwa moim zdaniem nie polega na tym, że wszyscy, którzy zasługują na laury, dostają laury, a wszyscy, którzy nie zasługują na laury, dostają kijem po dupie.
+3330:  KMM - Bo wtedy tarako pisaliśmy różnego rodzaju systemy, które się musiało bronić.
+3337:  KMM - Ludzie, którzy mają bardzo dużo pieniędzy lubią myśleć, że mają dużo pieniędzy dlatego, że na to zasłużyli.
+3342:  KMM - I bardzo często robią taką narrację, która ma bronić tego ich stanowiska.
+3345:  KMM - I trochę tak samo jest za cenami.
+3347:  KMM - że ludzie, którzy mieli w życiu bardzo dużo dobrych ocen, uważają, że one były należne, że na to zasługiwali, a nie myślą o tym w ogóle w kontekście feedbacku i informacji zwrotnej, którą otrzymali, ponieważ informacja zwrotna jest totalnie bezosobowa i bezwartościowa, to znaczy ona ci nie mówi, że coś jest dobrze czy źle.
+3365:  KMM - Bo to jest wartościowanie.
+3366:  KMM - Ona ci ma powiedzieć, co jest zrobione, a co jest niezrobione, a co jest do zrobienia.
+3370:  KMM - To jest tyle, co mówisz, nic więcej.
+3372:  KMM - I też pozbywasz się wtedy automatycznie problemu z faworyzowaniem, z właśnie niesprawiedliwym ocenianiem, że kogoś lubisz, więc będziesz mu podciągać ocenę, a komuś źle to z oczu patrzy, więc dostanie minus pięć, znaczy plus cztery, a nie minus pięć.
+3387:  KMM - Tego typu rzeczy.
+3388:  KMM - One są totalnie niemierzalne i one nam umykają cały czas, bo system ich nie wyłapuje, bo on jest bezosobowy.
+3397:  PO - Myślę, że może wrócimy jeszcze trochę do książek fantasy i chciałbym się zapytać, jakie masz poglądy wobec Gry o Tron?
+3408:  KMM - Chodzi ci o serialową czy książkową serię?
+3412:  KMM - Chciałbym, żeby była dokończona.
+3414:  PO - Właśnie, chciałbym się zapytać, czy według ciebie George R. R. Martin dokończy Gry o Tron?
+3421:  KMM - Jak dożyje, to dokończy na pewno Winds of Winter, ale nie sądzę, żeby dokończył Dream of Spring.
+3425:  KMM - Nie ma szans na to.
+3426:  KMM - Przy jego tempie pisania musielibyśmy znaleźć lek na nieśmiertelność w międzyczasie.
+3431:  KMM - Ja sądzę, że Brandon Sanderson dokończy, tak jak moją serię Koła Czasu dokończył Brandon Sanderson.
+3438:  KMM - to myślę, że też się za to zabierze, bo nie widzę innego pisarza, który mógłby temu podołać.
+3442:  KMM - Zresztą mieliśmy takie przypadki też teraz niedawno.
+3444:  KMM - Feliks Kress niestety zmarł i odszedł, w związku z powyższym pozostał problem z księgą całości.
+3450:  KMM - Żeby była faktycznie księga całości zasługiwała na to miana, to musi ktoś ją dokończyć i będzie ją kończył Arkady Saulski.
+3457:  KMM - Szczęśliwie, bo jest dużym fanem tej serii.
+3459:  KMM - Natomiast co do Martina, ja zdecydowanie wyżej cenię Pieśń Nodu i Ognia niż serial.
+3464:  KMM - Zwłaszcza serial od sezonu szóstego w górę, bo tam się po prostu podziały rzeczy, pod którymi Martin by się nie podpisał.
+3472:  KMM - Martin zawsze lubił taką fanbazę, która jest na wskroś realistyczna w znaczeniu takim, jaki przypisujemy także RealPolitik.
+3482:  KMM - Więc ona ma być na wskroś realistyczna i bezwzględna jak różnego rodzaju kalkulacje polityczne.
+3487:  KMM - O!
+3488:  KMM - I ja tego kompletnie nie widzę w ósmym sezonie, gdzie Denedys Targaryen traci mózg i przestaje myśleć.
+3493:  KMM - Zresztą to samo Petyr Baelish, to samo Tyrion Lannister, to samo, mój Boże, zapomniałem jak się nazywa, ten Famulus i Ewnuch, który pomagał rodowi Targaryenów i później
+3508:  KMM - dla Nisterów.
+3509:  KMM - W każdym razie większość z nich w którymś momencie zaczyna zachowywać się bardzo dziwnie.
+3513:  KMM - Więc ja bardzo czekam, aż George R. R. Martin wreszcie dokończy przynajmniej Wings of Winter, bo tęsknię za tym stylem pisania.
+3519:  KMM - Myślisz, że dokończy?
+3524:  KMM - Mam nadzieję.
+3524:  PO - Czy on w ogóle, myślisz, że on w ogóle to pisze?
+3527:  PO - Bo właśnie tak się zastanawiam.
+3528:  KMM - No już myślę, że tak.
+3529:  KMM - I tak zupełnie serio myślę, że tak.
+3531:  KMM - To znaczy ja chyba go dobrze rozumiem.
+3534:  KMM - Ja nie znoszę pisać.
+3536:  KMM - I pamiętam ten rodzaj presji, który się ma, że musisz coś dokończyć.
+3540:  KMM - Masz świadomość, że dużo ludzi na ciebie czeka.
+3542:  KMM - Im bardziej zastanawiasz się nad tym, ile osób na ciebie czeka, jakie są oczekiwania, tym bardziej od tego uciekasz w inne rewiry i w inne obszary działalności artystycznej.
+3551:  KMM - Mam wrażenie, że to jest to, co Martina spotkała.
+3553:  KMM - To, że on ma majątek duży i żyje sobie dobrze, to nie oznacza, że nie ma tych samych problemów związanych z wypaleniem, co inni ludzie.
+3560:  KMM - Nie sądzę, żeby on to robił złośliwie, bo to jest bez sensu.
+3564:  KMM - Autentycznie myślę, że ma problem z tym, żeby te wszystkie wątki zebrać, bo też sobie zdaję sprawę z tego, że fani nie byli zadowoleni z tego, co dowieźli głupi i głupszy, to znaczy David Benioff i D.B.
+3575:  KMM - Wise w tym nieszczęsnym ósmym sezonie.
+3579:  PO - Właśnie...
+3580:  PO - to ja myślę, że idealnie możemy przejść do ekranizacji Netflixowskiej Problemu Trzech Ciał, no bo tak, teoretycznie wiem, że Ty obejrzałeś cały serial i ja przeczytałem książkę, więc ja teoretycznie jestem po pierwowzorze po prostu książkowym, czyli i jakby chyba dokończyłem, tak, obejrzałem pięć odcinków, bo z tego co wiem już następne trochę
+3611:  KMM - Tak, trzecią zwłaszcza.
+3613:  PO - I dlatego właśnie głos rozsądku powiedział mi,
+3618:  PO - Żebym nie dokończył.
+3619:  PO - I na przykład wiem, że ty jakby, jakbyś mógł po prostu powiedzieć swoje odczucia wobec serialu, bo wiem, że coś tam wstawiasz jakąś tam recenzję na kanale.
+3630:  KMM - Tak, znaczy ja byłem dość krytyczny z tego względu, że serial wprowadza bardzo dużo wątków powiązanych z poszczególnymi postaciami, które nie są interesujące.
+3639:  KMM - Wiesz, atrakcyjność Gry o Tron polegała na tym serialowej tym razem, ale książkowej też, że masz postaci, które są
+3645:  KMM - bardzo interesujące przez wzgląd na to, gdzie one idą, gdzie się poruszają, gdzie przemieszczają, jaką mają perspektywę.
+3650:  KMM - Ale jeżeli wprowadzasz może postaci po to, żeby sobie robić przyjaciół na kanapie i oni będą fajnie się ze sobą zgrywać, no to przynajmniej muszą to być interesujący ludzie.
+3659:  KMM - No ja mam wrażenie, wiesz, miał sobie przypomnieć teraz postaci, które ja tam poznałem, to sobie nie przypomnę, bo dla mnie to był bohater zbiorowy.
+3665:  KMM - I to jest trochę problem tego serialu, że nie potrafił zdecydować się na to, żeby postawić na jedną postać i cały czas z jej perspektywy to przedstawiać i powiedzmy wprowadzić drugi wątek, jak jeden, żeby był tylko drugi wątek, gdzie będzie pokazywać tę sprawę tajemnicy związanej właśnie z Tristolarianami, ale teraz z perspektywy na przykład jakiegoś naukowca albo właśnie dziennikarza, bo ta postać dziennikarza jest też wdzięczna na głównego bohatera, więc możemy go zostawić na dziennikarza i wtedy na drugim planie narracyjnym masz
+3694:  KMM - naukowca i dostajesz dwie wartościowe perspektywy, między którymi się przełączasz.
+3699:  PO - Ja też nie rozumiem, czemu, jeżeli w pierwowzorze, tak naprawdę w źródle, czyli w książce, jest jeden główny bohater.
+3708:  PO - Po co oni robią bohatera zbiorowego, który tak naprawdę nie jest wykreowany?
+3713:  KMM - No i moja teza jest taka, że David Benioff i D.B.
+3717:  KMM - Wise niestety po prostu są w schemacie.
+3721:  KMM - I oni widzą, ok, schemat pod tytułem Gra o Tron wyszło.
+3724:  KMM - Co było w Grze o Tron?
+3726:  KMM - Dużo postaci, dobrze.
+3727:  KMM - To zatrudnijmy tych samych aktorów z Gry o Tron, tych, którzy będą chcieli.
+3731:  KMM - i też sprowadzimy dużo postaci, będzie sukces.
+3734:  KMM - Ludzie myślą niesamowicie schematycznie i mam wrażenie, że to jest główny problem w ogóle naszych czasów, że popadamy w te schematy, bo to się sprzedało.
+3741:  KMM - System edukacji.
+3743:  KMM - Tak, więc coś takiego się sprzeda też gdzie indziej.
+3746:  KMM - My się gdzieś tego uczymy i ja wiem, że wszystkie drogi prowadzą do edukacji u mnie, ale taka prawda, że ja nie znoszę schematów, uwielbiam jak ktoś go przełamuje.
+3754:  KMM - Teraz właśnie oglądam Fallouta, który wyszedł dzisiaj.
+3757:  PO - Właśnie miałem się pytać, ale to już później.
+3759:  KMM - Jest rewelacja i niesamowicie zaskoczona.
+3764:  KMM - Opisze pierwszą scenę, która nie jest sceną.
+3766:  KMM - To znaczy serial zaczyna się od dużego napisu, koniec.
+3770:  KMM - The end.
+3771:  KMM - I to jest najzajebistsza rzecz, jaką można zdobyć post-apo.
+3774:  KMM - Zacząć serial od dużej planszy z napisem koniec.
+3777:  KMM - To jest dosłownie pierwsza sekunda serialu, a potem jest tylko lepiej.
+3782:  KMM - I wprowadzają tam mało postaci, są trzy główne perspektywy, które właśnie dają ci wgląd w różne frakcje, nie spoilując, a zatem dostajesz szansę na to, żeby faktycznie zobaczyć ten świat z różnych interesujących miejsc.
+3795:  KMM - To jest dobry trening światotwórczy.
+3798:  KMM - Chcesz pokazać ludziom Polskę, załóżmy.
+3801:  KMM - No wiem, nudne, ale tak, dobrze, jak możemy zrobić to, żeby to było mało nudne?
+3805:  KMM - Wybierasz sobie jakieś trzy grupy społeczne albo trzy specyficzne osoby, z perspektywy których pokazujesz różne egzotyczne nawet dla Polaka rzeczy.
+3815:  KMM - I nagle się okazuje, że możesz sobie wymyślić tego rodzaju obszary, to ci się łączy w jakieś frakcje, w jakieś miejsca i możesz stworzyć z tego fajną fabułę, możesz też przedstawić historię przeciętnego Przemka, który będzie sobie wiódł swoje przeciętne życie i będziesz mieć całe polskie kino.
+3831:  PO - Jak to pisał tak o Hemingway.
+3834:  PO - Czyli teoretycznie po prostu dla mnie na przykład też nie za fajnie wyszło w tym, że teoretycznie po jakiego grzyba, jaki jest ksiądz
+3846:  PO - które wszyscy są Chińczykami, wsadzają nagle akcje do Londynu i dosłownie ludzie, nie wiem, nagle widzisz różne, żeby było oczywiście poprawnie powiedzieć, różne mieszanki kulturowe w książce, w której tak naprawdę większość to są Chińczycy i skupia się na kulturze chińskiej.
+3867:  KMM - To by było dla mnie bardzo zaskakujące.
+3869:  KMM - Jedyne, co przychodzi mi do głowy, to naciski producentów.
+3873:  KMM - Tak, Netflix.
+3876:  KMM - Jasne jest też to, że producenci amerykańscy bardzo są podatni na naciski ze strony...
+3883:  KMM - Więc to nie jest dziwne, że przez lata od 9-11 w górę mieliśmy złoli obsadzanych w firmach akcji, którzy mieli turbany na głowach.
+3894:  KMM - A teraz mamy przypadkiem złoli, którzy mówią z takim twardym rosyjskim akcentem.
+3898:  KMM - a za moment będziemy mieli złoli, którzy będą mówili z chińskim akcentem.
+3902:  KMM - Więc mam wrażenie, że to jest raczej ten problem, że nie chciano z perspektywy tego obecnego, no powiedzmy, nie jest to zimna wojna, ale jest to niewątpliwie rywalizacja dwóch mocarstw i Ameryki i Chin, przedstawiać Chiny jako tych właśnie, którzy dokonują różnego rodzaju odkryć, albo z których perspektywy coś jest przedstawiane.
+3920:  KMM - To jest moja kwestia polityczna.
+3922:  PO - Ale to jest właśnie abstrakcyjne, bo Chiny w tym tak naprawdę dziele, przedstawione są te
+3930:  KMM - Otóż to.
+3931:  KMM - Ale właśnie na tym polega problem schematów, że jeżeli myślisz schematycznie, to robisz głupoty.
+3938:  PO - Dobrze.
+3938:  PO - I jeszcze myślę, że na zakończenie fajnie też przytoczyć słowa, które dużo tak naprawdę z socjologów mówi.
+3946:  PO - Na przykład wiem, że ten gościu Gustaw, który napisał Psychologię Tummu.
+3953:  KMM - Gustaw Lebon, tak.
+3954:  PO - On
+3960:  PO - Znaczy Boże, to ja mówię, edukacja jest wyznacznikiem rozwoju i po prostu mentalności danej kultury.
+3968:  PO - Czyli jak my w Polsce nie poprawimy naszej edukacji, to tak naprawdę, no pod tym takim, można powiedzieć, pod tym socjologicznym względem, w tym socjologicznym względzie będziemy strasznie z tyłu.
+3982:  KMM - Nawet tylko powiem ci gorzej, to znaczy jeżeli my się sami nie weźmiemy za swoją edukację egoistycznie, nie czekając aż ktoś to naprawi, bo nikt tego nie naprawi, przez 30 lat nikt tego nie naprawił, zdziwię się jeżeli to naprawi, to rzeczywiście będziemy mieli wtedy kłopot, więc...
+3997:  KMM - Przez wzięcie spraw w swoje ręce mam na myśli walkę o swoje prawa i znajomość.
+4001:  KMM - To jest najważniejsza rzecz.
+4003:  KMM - Trzeba znać swoje prawa, niezależnie od tego, czy się jest w szkole, czy się jest później w pracy.
+4007:  KMM - Bo jeżeli się daliśmy wodzić za nos w szkole i mamy 18 lat i ktoś nam mówi, czy możemy wyjść z budynku, czy nie, albo nie pozwala nam się usprawiedliwić z religii, czy cokolwiek innego.
+4016:  KMM - Albo wypić wodę.
+4018:  KMM - Albo wypić wodę, ale to już wcześniej, wiesz, to nikt nie ma prawa ci zakazać w ogóle, niezależnie od tego, czy jesteś pełnoletni, czy nie.
+4024:  KMM - Pić wodę, wyjść do toalety, zjeść coś, absolutnie nie ma takiej możliwości.
+4028:  KMM - To już jest problem i wtedy, wiesz, jeżeli się do tego przyzwyczaisz, pracodawca będzie cię mobbingował potem i nawet tego nie zauważysz.
+4035:  KMM - Druga rzecz, którą możemy zrobić, niezależnie od tego, jaką mamy motywację zewnętrzną, budować swoją motywację wewnętrzną i robić rzeczy dla siebie, egoistycznie i bardzo starać się, żeby nie było w naszym życiu takiego czytelnego podziału.
+4049:  KMM - Ok, szkoła i praca to jest inny budynek, gdzie pracuję i się koncentruję, a dom to jest miejsce, w którym się bawię.
+4056:  KMM - Bo w którymś momencie może być na odwrót i na przykład będziesz mieć pracę zdalną albo naukę zdalną i nie będziesz w stanie się zmotywować do pracy.
+4063:  KMM - Czwarta rzecz, która jest najważniejsza dla mnie w ogóle, jeżeli chodzi o poznawanie nowych obszarów wiedzy, to jest umiejętność wykorzystywania źródeł, które mamy i narzędzi, które mamy w dzisiejszych czasach, a za które by się posiekali ludzie, którzy robili wielką encyklopedię w oświeceniu i inni.
+4079:  KMM - późniejsi, to znaczy umieć wyszukiwać internet, a nie wiesz, tylko czekać, aż ci algorytm podsufluje to, co tobie się niby podoba, a ty nawet jeszcze nie wiesz, więc zapanować nad tym.
+4090:  KMM - Następnie wykorzystywać teraz rodzące się algorytmy sztucznej inteligencji do tego, żeby one służyły nam, a nie my im.
+4100:  KMM - domyśl nam się, bo one są tego idealne.
+4102:  KMM - I ostatnia rzecz, no cóż, szukać wiedzy na własną rękę i pod siebie ją dostosowywać, skoro nieindywidualizowano kształcenia dla nas, to my możemy zindywidualizować dla siebie.
+4113:  PO - No tak, ja też myślę, że ogólnie problem jest taki, że ja też można powiedzieć, się z tym borykam, że szkoła tak naprawdę ma ten nacisk na typowe, no jak już wszyscy mówimy, XIX-wieczny pruski system edukacji,
+4135:  PO - Teoretycznie już widzę, że już widzę na przykład w moim przykładzie, że to uczy, znaczy system edukacji przez to uczy uczy takiego typowego podporządkowania się, a ja mam na przykład nie wiem, czy to jakby mam dobre na przykład takie przemyślenia, że tak naprawdę system edukacji wygląda tak, jak wygląda, żeby tak naprawdę no wiadomo, żeby jak najłatwiej rządzić i manipulować ludźmi, w sensie, że
+4172:  PO - są łatwiejsi do ciągania za sznurki.
+4183:  KMM - Trudny temat, to następna rozmowa, ze swojej perspektywy powiedzieć, że to nie jest aż tak proste w tym sensie, że jest dużo systemów, które jednak kształtują lepiej obywateli, bo to jest mega krótkowzroczne i tego nie rozumieją ludzie bardzo często, którzy doświadczyli kiedyś totalitaryzmu.
+4202:  KMM - To jest pewnym paradoksem, że o wiele
+4207:  KMM - Łatwiej się wygruzić w takiej sytuacji, jeżeli usiłujesz kogoś cały czas propagandą jakoś kształtować.
+4214:  KMM - Natomiast jeżeli starasz się kształtować obywatela, który jest krytyczny, który sprawnie funkcjonuje w społeczeństwie, no to wtedy bogacisz się jako państwo.
+4224:  KMM - To jest bardzo proste.
+4225:  KMM - Ludzie, którzy są zastraszeni,
+4228:  KMM - i którzy myślą schematycznie, będą generować mniejsze PKB niż ludzie, którzy nie są zastraszeni.
+4233:  KMM - I wiesz, i to ci powie każdy naukowiec, który w ciągu ostatnich 30 lat spieprzył poza granicę Polski, a jest ich bardzo dużo.
+4239:  KMM - I to nie jest przypadek, że wysoko wykwalifikowani specjaliści u nas bardzo często też pracują zdalnie już w firmach zachodnich,
+4247:  KMM - No bo po prostu tam troszeczkę inaczej podchodzi się do wyszukiwania talentów.
+4250:  KMM - To myślę, że jest jedna z rzeczy, które powinniśmy wdrożyć zaraz, to znaczy wsparcie na wyszukiwanie talentów i wiesz, nie wyszukiwania talentów w znaczeniu wyszukiwania ludzi z szóstkami, tylko wyszukiwania talentów w różnych dziedzinach życia.
+4274:  PO - Ministerstwo planuje zmienić, więc żeby nie było, nie mówię teraz o konkretnej szkole, nie mówię o konkretnej placówce, tylko mówię o ogólnym systemie edukacji.
+4284:  PO - Dobra, ja myślę, że tym optymistycznym zakończeniem możemy tak naprawdę już kończyć podcast.
+4293:  KMM - Dziękuję jeszcze raz za zaproszenie i dziękuję za bardzo wielowątkową rozmowę.
